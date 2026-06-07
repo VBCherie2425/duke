@@ -1,0 +1,2691 @@
+#EXTM3U
+#EXTM3U url-tvg="https://tvpass.org/epg.xml"
+#EXTM3U url-tvg="http://m3u4u.com/xml/8p4ey8r57zcq1d56yg1v"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPGTalk/refs/heads/master/guide.xml"
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-us.xml.gz"
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-fr.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
+#EXTM3U url-tvg="https://www.dropbox.com/s/n4pbocq9fmwkbc3/cepgepg.xml?dl=1"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz" 
+#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
+#EXTM3U x-tvg-url="https://jiotv-epg.xml.gz"
+#EXTM3U x-tvg-url="https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/unitedstates4.xml"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/unitedstates5.xml"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/unitedstates6.xml"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/unitedstates7.xml"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/unitedstates6.xml"
+
+
+
+
+Cheddar News (HD Only)1
+#EXTINF:-1 tvg-id="5636" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/5636.png" group-title="",Cheddar.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5636
+
+CBS (WCBS)2
+#EXTINF:-1 tvg-id="CBS (WCBS) New York, NY" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/2/2f/WCBS93.png/revision/latest?cb=20210301005135" group-title="", CBS
+http://192.168.1.61:5004/auto/v2.1
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=358
+https://airtel.rkdyiptv.workers.dev/live/2031.m3u8
+https://airtel.rkdyiptv.workers.dev/live/1496.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/3384.m3u8
+https://iptv.852851.xyz/ch/522dc852809a29da8ebbe673856af9ac/master.m3u8
+
+ION (WPXN)3
+#EXTINF:-1 group-logo="" group-title="" tvg-id="ION (WPXN) New York, NY" tvg-logo="https://logodix.com/logo/451821.png" group-logo="", ION
+http://192.168.1.61:5004/auto/v31.1
+http://204.12.231.10/service/scripts/1pmisgtv/isg.php?id=20000472&type=stream.m3u8
+http://origin.thetvapp.to/hls/IONTVEast/index.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=209
+
+NBC (WNBC)4
+#EXTINF:-1 tvg-id="NBC (WNBC) New York, NY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/WNBC_2023.svg/1280px-WNBC_2023.svg.png" group-title="",NBC
+http://192.168.1.61:5004/auto/v4.1
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=515
+https://yupptv.rkdyiptv.workers.dev/live/6373.m3u8
+https://iptv.852851.xyz/ch/0821f58c90f6b60c6b991c9a8d89255e/master.m3u8
+
+FOX (WNYW)5
+#EXTINF:-1 group-logo="" group-title="" tvg-id="FOX (WNYW) New York, NY" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/451e1b93-9c46-4e4d-9e4e-570ffa420eee/dj8lmnu-ce644baa-f133-4ef0-8e8d-51cad5e49216.png/v1/fill/w_1280,h_413/wnyw_logo__df_corp_au__by_potolo2009_dj8lmnu-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDEzIiwicGF0aCI6Ii9mLzQ1MWUxYjkzLTljNDYtNGU0ZC05ZTRlLTU3MGZmYTQyMGVlZS9kajhsbW51LWNlNjQ0YmFhLWYxMzMtNGVmMC04ZThkLTUxY2FkNWU0OTIxNi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.zSdwQvijYtLQUISQAjGKkL3i78DuxgudrYxLJWYA-sM" group-logo="", FOX
+http://192.168.1.61:5004/auto/v5.1
+http://208.86.19.13:81/103.stream/index.m3u8
+http://204.12.231.10/service/scripts/1pmisgtv/isg.php?id=20000184&type=stream.m3u8
+http://origin.thetvapp.to/hls/WNYWDT1/index.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/6374.m3u8
+https://iptv.852851.xyz/ch/4db5892178edd3cbaaaf3ed05f6779a5/master.m3u8
+
+Univisión (WXTV) 6
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/WXTV-DT_%282019%29.svg/1280px-WXTV-DT_%282019%29.svg.png" group-logo="", Univision.us
+#EXTINF:0 CUID="5" tvg-name="Univisión" tvg-id="foxwttgwashingtondc.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/WXTV-DT_%282019%29.svg/1280px-WXTV-DT_%282019%29.svg.png" group-title="",Univision.us
+http://192.168.1.61:5004/auto/v41.1
+https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
+http://origin.thetvapp.to/hls/UnivisionEast/index.m3u8
+
+ABC (WABC)7
+#EXTINF:-1 tvg-id="ABC (WABC) New York, NY" tvg-logo="https://i1.sndcdn.com/artworks-ANbyTXIO3A54fiTw-sXnUnw-t500x500.png" group-title="", ABC
+http://192.168.1.61:5004/auto/v7.1
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=295
+https://yupptv.rkdyiptv.workers.dev/live/1148.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/3351.m3u8
+http://204.12.231.10/service/scripts/1pmisgtv/isg.php?id=20000340&type=stream.m3u8
+http://origin.thetvapp.to/hls/WABCDT1/index.m3u8
+https://iptv.852851.xyz/ch/4b9193017fc8018781416cccfbb8725f/master.m3u8
+
+NY1 NEWS 8
+#EXTINF:0 CUID="160" tvg-name="WE TV" tvg-id="wetv.us" tvg-logo="https://cdn.myportfolio.com/d5cdc442-b077-4289-ac3d-7909a52d46df/c4a8a0e7-64d0-4af6-867f-53e883dab900_rw_1200.png?h=0ae42884996a08304de6b4117a5b800c" group-title="",NY1 NEWS
+https://yupptv.rkdyiptv.workers.dev/live/6311.m3u8
+http://flashvpn.nl:8080/play/zjmP9z8iUJwZbQfshWkEoIimkjss8iOudERJ3yu5hWQ/ts
+https://dbrb49pjoymg4.cloudfront.net/10001/99951337/hls/playlist.m3u8?ads.xumo_channelId=99951337
+
+My9 (WWOR)9    WWOR HDTV.us
+#EXTINF:-1 tvg-id="No details available" tvg-name="CAR | MY9" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2019/06/wwor-logo.jpg" group-title="", MY9 (WWOR) New York, NY
+http://192.168.1.61:5004/auto/v9.1
+https://yupptv.rkdyiptv.workers.dev/live/7352.m3u8
+https://airtel.rkdyiptv.workers.dev/live/5414.m3u8
+http://208.86.19.13:81/105.stream/index.m3u8
+
+WLNY 10
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/WLNY-TV_logo.svg/250px-WLNY-TV_logo.svg.png" group-logo="", WLNY HDTV.us
+http://flashvpn.nl:8080/play/zjmP9z8iUJwZbQfshWkEoHjYLWh57RJNaiI1AsBzCAk/ts
+
+CW (WPIX) 11
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://static-www.adweek.com/wp-content/uploads/sites/4/2021/05/WPIX.png?w=600" group-logo="", WPIX HDTV.us
+http://192.168.1.61:5004/auto/v11.1
+http://208.86.19.13:81/106.stream/index.m3u8
+http://origin.thetvapp.to/hls/WPIX/index.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=381
+https://airtel.rkdyiptv.workers.dev/live/91.m3u8
+
+News 12 Brooklyn 12
+#EXTINF:-1 tvg-id="5653" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDbD3xU6qEMITmP9gfzm9wOoKMWTxXKlwTRQ&s" group-title="",NEWS 12 BKLYN
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5653
+https://yupptv.rkdyiptv.workers.dev/live/6108.m3u8
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=523
+http://flashvpn.nl:8080/play/zjmP9z8iUJwZbQfshWkEoBand-kVJoStP-Fk1OkgRGE/ts
+
+PBS/Thirteen (WNET) 13
+#EXTINF:-1 group-logo="" group-title="" tvg-id="PBS (WNET) New York, NY" tvg-logo="https://www.wnet.org/wp-content/uploads/sites/1/2017/01/PBSKids24-7_Thirteen_2-792x506.jpg" group-logo="", PBS
+http://192.168.1.61:5004/auto/v13.1
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=543
+http://origin.thetvapp.to/hls/WNET/index.m3u8
+
+i24NEWS 14
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/xqfSNVwO9RiWskooyNNol6dmFDpsaQ4YCDQ7Ryt65lg.png" group-logo="", i24NEWS
+https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=480030
+
+QVC 15
+#EXTINF:-1 group-logo="" group-title="" tvg-id="QVC" tvg-logo="https://cdn2.titantv.com/Pn3_ZxECk3oQYforsfM9Q7tNv7WazGCsW0vKQSwdBbk.png" group-logo="", QVC
+http://192.168.1.61:5004/auto/v31.8
+http://212.102.60.231/QVC/index.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=227
+
+Telemundo (WNJU) 16
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/5/58/Telemundo_47_2018.png/revision/latest/thumbnail/width/360/height/360?cb=20190613134720" group-logo="", Telemundo Network (East).us
+http://192.168.1.61:5004/auto/v47.1
+http://origin.thetvapp.to/hls/TelemundoEast/index.m3u8
+
+UniMÁS 17
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/WFUT-DT_%282021%29.svg/1280px-WFUT-DT_%282021%29.svg.png" group-logo="", UniMás (East).us
+http://192.168.1.61:5004/auto/v68.1
+
+HSN 18/147
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/TxuI-mGc5Zu45csSb4uKwCy-wbIR4RCQ.png" group-logo="", HSN  Home Shopping Network.us
+http://192.168.1.61:5004/auto/v7.4
+http://204.12.231.10/service/scripts/1pmisgtv/isg.php?id=20000396&type=stream.m3u8
+
+WRNN 19
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/8/88/WRNN-TV_RNN_logo.png/revision/latest?cb=20210104135150" group-logo="", WRNN
+http://192.168.1.61:5004/auto/v48.1
+
+WMBC 20
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/WMBC_logo.jpg" group-logo="", WMBC
+http://192.168.1.61:5004/auto/v63.1
+
+PBS (WLIW) 21
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/7Mc-zpDQmB0JTqHMX0xlIUtUlNe23n3EbdUPgQKBVyY.png" group-logo="", WLIW21
+http://192.168.1.61:5004/auto/v21.1
+
+NYC Life 22
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/wtXnQ03pBxvIzMUD9hAOuM2tSDYBhMXzv0eE7-6mCog.png" group-logo="", NYC Life
+http://192.168.1.61:5004/auto/v25.1
+
+MS Now 23
+#EXTINF:-1 tvg-id="MSNBC USA" tvg-name="MSNBC HD" tvg-logo="" group-title="", MSNBC
+https://yupptv.rkdyiptv.workers.dev/live/365.m3u8
+https://airtel.rkdyiptv.workers.dev/live/32.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=475047
+
+CNBC 24
+#EXTINF:-1 tvg-id="CNBC USA" tvg-name="CNBC HD USA" tvg-logo="" group-title="",CNBC
+https://yupptv.rkdyiptv.workers.dev/live/364.m3u8
+https://airtel.rkdyiptv.workers.dev/live/29.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=476759
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=476806
+
+CNN 25
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN 4K" tvg-logo="https://logodix.com/logo/38044.png" group-title="", CNN HD
+https://yupptv.rkdyiptv.workers.dev/live/3539.m3u8
+https://airtel.rkdyiptv.workers.dev/live/22.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=481650
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5638
+
+FOX News Channel 26
+#EXTINF:-1 tvg-id="FOX News" tvg-name="FOX NEWS HD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/93ee227e-38bf-4f0f-9be4-bce0cbbd07b5/dfktd9n-eb17da0f-03b3-47e8-b9df-ae9d077825a3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi85M2VlMjI3ZS0zOGJmLTRmMGYtOWJlNC1iY2UwY2JiZDA3YjUvZGZrdGQ5bi1lYjE3ZGEwZi0wM2IzLTQ3ZTgtYjlkZi1hZTlkMDc3ODI1YTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sLD3KgSgSvbhfJ-6H-0Gw6FL6s6loQeQHMc7_p9gZVg" group-title="",Fox News
+https://yupptv.rkdyiptv.workers.dev/live/909.m3u8
+https://airtel.rkdyiptv.workers.dev/live/26.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5644
+
+Discovery Channel 27
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="DISCOVERY CHANNEL HD USA" tvg-logo="" group-title="",Discovery Channel.us
+https://yupptv.rkdyiptv.workers.dev/live/1783.m3u8
+https://airtel.rkdyiptv.workers.dev/live/56.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=191
+
+TLC 28
+#EXTINF:-1 tvg-id="TLC USA - Eastern" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/234.png" group-title="",TLC
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=234
+https://yupptv.rkdyiptv.workers.dev/live/410.m3u8
+https://airtel.rkdyiptv.workers.dev/live/112.m3u8
+
+SHOP HQ 29
+#EXTINF:0 CUID="793" tvg-name="" tvg-logo="https://www.hfndigital.com/wp-content/uploads/sites/14/2019/08/ShopHQ-WP.jpg" group-title="",ShopHQ.us
+http://192.168.1.61:5004/auto/v18.1
+
+The Net 30
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/NET_Logo_2008.jpg" group-logo="", The Net
+https://desales.pc.cdn.bitgravity.com/desales/live/feed02/playlist.m3u8
+
+Disney Channel 31
+#EXTINF:-1 tvg-id="5687" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/5687.jpg" group-title="",Disney Channel.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5687
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5689
+https://airtel.rkdyiptv.workers.dev/live/5432.m3u8
+https://airtel.rkdyiptv.workers.dev/live/232.m3u8
+https://airtel.rkdyiptv.workers.dev/live/234.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/1183.m3u8
+
+CARTOON NETWORK 32
+#EXTINF:0 CUID="39" tvg-name="CARTOON NETWORK" tvg-id="Cartoon Network USA - Eastern Feed" tvg-logo="https://logo.m3uassets.com/cartoonnetwork.png" group-title="", CARTOON NETWORK
+https://airtel.rkdyiptv.workers.dev/live/230.m3u8
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+http://204.12.231.10/service/scripts/1pmisgtv/isg.php?id=20000026&type=stream.m3u8
+http://origin.thetvapp.to/hls/CartoonNetworkEast/index.m3u8
+http://208.86.19.13:81/33.stream/index.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/328.m3u8
+
+MeTV (WJLP) 33
+#EXTINF:-1 tvg-id="MeTV (WJLP) New Jersey/New York" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71695.png" group-title="",ME TV
+http://192.168.1.61:5004/auto/v33.1
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=475021
+http://1pixmedia.better-than.tv/service/scripts/1pmisgtv/isg.php?id=20000535&type=stream.m3u8
+
+TV Land 34
+#EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="TV Land - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/1280px-TV_Land_2015_logo.svg.png" group-title="",TV Land
+https://yupptv.rkdyiptv.workers.dev/live/3747.m3u8
+https://airtel.rkdyiptv.workers.dev/live/2616.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=215
+
+ESPN2 35/211
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="CAR | ESPN 2 CARIBBEAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20160127215859" group-title="", ESPN 2
+https://yupptv.rkdyiptv.workers.dev/live/7328.m3u8
+https://airtel.rkdyiptv.workers.dev/live/255.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7019
+
+ESPN 36/210
+#EXTINF:-1 tvg-id="ESPN" tvg-name="CAR | ESPN CARIBBEAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="",ESPN
+https://yupptv.rkdyiptv.workers.dev/live/7327.m3u8
+https://airtel.rkdyiptv.workers.dev/live/254.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=476839
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7018
+
+TNT 37
+#EXTINF:-1 tvg-id="TNT - Eastern Feed" tvg-name="TNT HD USA" tvg-logo="https://logodix.com/logo/294092.png" group-title="",TNT
+https://yupptv.rkdyiptv.workers.dev/live/1177.m3u8
+https://airtel.rkdyiptv.workers.dev/live/117.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=235
+
+USA Network 38
+#EXTINF:-1 tvg-id="USA Network - East Feed" tvg-name="USA NETWORK HD" tvg-logo="" group-title="", USA NETWORK
+https://yupptv.rkdyiptv.workers.dev/live/353.m3u8
+https://airtel.rkdyiptv.workers.dev/live/85.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=242
+
+TBS 39
+#EXTINF:-1 tvg-id="TBS - East" tvg-name="TBS HD USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/1280px-TBS_2020.svg.png" group-title="",TBS
+https://yupptv.rkdyiptv.workers.dev/live/1790.m3u8
+https://airtel.rkdyiptv.workers.dev/live/118.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=476823
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=232
+
+FX 40
+#EXTINF:-1 tvg-id="FX Networks East Coast" tvg-name="FX HD USA" tvg-logo="https://logodix.com/logo/587455.png" group-title="",FX
+https://yupptv.rkdyiptv.workers.dev/live/1904.m3u8
+https://airtel.rkdyiptv.workers.dev/live/83.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5740
+
+Turner Classic Movies 41
+#EXTINF:-1 tvg-id="Turner Classic Movies USA" tvg-name="TCM HD" tvg-logo="https://logodix.com/logo/2108550.png" group-title="", TCM
+https://yupptv.rkdyiptv.workers.dev/live/2653.m3u8
+https://airtel.rkdyiptv.workers.dev/live/2300.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=476827
+
+WE tv 42
+#EXTINF:-1 tvg-id="WE (Womens Entertainment) - Eastern" tvg-name="WE TV HD USA" tvg-logo="" group-title="",WE TV
+https://yupptv.rkdyiptv.workers.dev/live/337.m3u8
+https://airtel.rkdyiptv.workers.dev/live/1887.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=245
+
+AMC 43
+#EXTINF:-1 tvg-id="AMC - Eastern Feed" tvg-name="AMC HD USA" tvg-logo="" group-title="",AMC
+https://yupptv.rkdyiptv.workers.dev/live/1898.m3u8
+https://airtel.rkdyiptv.workers.dev/live/98.m3u8
+https://airtel.rkdyiptv.workers.dev/live/100.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=476818
+
+Bravo 44
+#EXTINF:-1 tvg-id="Bravo USA - Eastern Feed" tvg-name="BRAVO HD USA" tvg-logo="" group-title="",BRAVO
+https://yupptv.rkdyiptv.workers.dev/live/1899.m3u8
+https://airtel.rkdyiptv.workers.dev/live/95.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=177
+
+Lifetime 45
+#EXTINF:-1 tvg-id="Lifetime Network US - Eastern Feed" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/217.png" group-title="", LIFETIME
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=217
+https://airtel.rkdyiptv.workers.dev/live/89.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/1171.m3u8
+
+A&E 46
+#EXTINF:-1 tvg-id="AE US - Eastern Feed" tvg-logo="https://logodix.com/logo/2107241.png" group-title="", A&E
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=476816
+https://airtel.rkdyiptv.workers.dev/live/96.m3u8
+https://airtel.rkdyiptv.workers.dev/live/97.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/1176.m3u8
+
+History 47
+#EXTINF:-1 tvg-id="204" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP25u44llKts36fDLp1Fdx1KFkCejYAAwL6g&s" group-title="",History.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=204
+https://airtel.rkdyiptv.workers.dev/live/74.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/1784.m3u8
+
+Syfy 48
+#EXTINF:-1 tvg-id="Syfy - Eastern Feed" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/73530.png" group-title="",SYFY
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=476817
+https://airtel.rkdyiptv.workers.dev/live/99.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/931.m3u8
+
+Freeform 49
+#EXTINF:-1 tvg-id="Freeform - East Feed" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/198.png" group-title="",FREEFORM
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=198
+https://airtel.rkdyiptv.workers.dev/live/1874.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/3249.m3u8
+
+Comedy Central 50
+#EXTINF:-1 tvg-id="Comedy Central (US) - Eastern Feed" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/180.png" group-title="",COMEDY CENTRAL
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=180
+https://airtel.rkdyiptv.workers.dev/live/93.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/1901.m3u8
+
+E! 51
+#EXTINF:-1 tvg-id="E! Entertainment USA - Eastern Feed" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/194.png" group-title="",E!
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=194
+https://airtel.rkdyiptv.workers.dev/live/90.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/397.m3u8
+
+VH1 52
+#EXTINF:-1 tvg-id="VH1 - Eastern Feed" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/243.png" group-title="",VH1
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=243
+https://airtel.rkdyiptv.workers.dev/live/121.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/1909.m3u8
+
+MTV 53
+#EXTINF:-1 tvg-id="214" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/214.png" group-title="",MTV.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=214
+https://airtel.rkdyiptv.workers.dev/live/77.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/2434.m3u8
+
+BET 54
+#EXTINF:-1 tvg-id="BET - Eastern Feed" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/174.png" group-title="", BET
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=174
+https://airtel.rkdyiptv.workers.dev/live/109.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/1789.m3u8
+
+MTV2 55
+#EXTINF:-1 tvg-id="MTV 2 - East" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/216.png" group-title="",MTV 2
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=216
+https://airtel.rkdyiptv.workers.dev/live/1873.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/4293.m3u8
+
+Paramount Network 56
+#EXTINF:-1 tvg-id="Paramount Network USA - Eastern Feed" tvg-name="PARAMOUNT NETWORK HD" tvg-logo="" group-title="", Paramount
+https://yupptv.rkdyiptv.workers.dev/live/2106.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5768
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=225
+https://airtel.rkdyiptv.workers.dev/live/1949.m3u8
+
+Animal Planet 57
+#EXTINF:-1 tvg-id="Animal Planet US - East" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/168.png" group-title=""",ANIMAL PLANET
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=168
+https://airtel.rkdyiptv.workers.dev/live/69.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/4287.m3u8
+
+truTV 58
+#EXTINF:-1 tvg-id="truTV USA - Eastern" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/73535.png" group-title="",TRU TV
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=476822
+https://airtel.rkdyiptv.workers.dev/live/111.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/396.m3u8
+
+Religious Programming 59
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://www.lightsource.com/areas/lightSource/content2/lstv-poster-790x444.png" group-logo="", Religious Programming 59
+https://lstv.swncdn.com/live/master.m3u8
+
+SNY 60
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/sCvKAwnrmd9PylAD9IejkHvvW-fpqCXeLXhh8fufCr8.png" group-logo="", SNY.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=721
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=477048
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=480033
+http://204.12.231.10/service/scripts/1pmisgtv/isg.php?id=20000479&type=stream.m3u8
+http://origin.thetvapp.to/hls/sny-sportsnet-new-york-comcast/index.m3u8
+http://212.102.60.231/SNY/index.m3u8
+
+News 12+ 61
+#EXTINF:-1 tvg-id="221" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/News_12_Plus_Logo.png/250px-News_12_Plus_Logo.png" group-title="",NEWS 12+
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=221
+https://yupptv.rkdyiptv.workers.dev/live/6103.m3u8
+
+The Weather Channel 62
+#EXTINF:-1 tvg-id="The Weather Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTETIlg9B_EpvNI5X8pkR7a2_ra9hVEiumww&s" group-title="",WEATHER CHANNEL
+https://yupptv.rkdyiptv.workers.dev/live/398.m3u8
+https://airtel.rkdyiptv.workers.dev/live/4.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5672
+
+BarkTV 63
+#EXTINF:-1 tvg-id="247" tvg-logo="https://image.roku.com/developer_channels/prod/cf2910936c96b899a6c31d0a949392ecab14214ebfea0e6c04a5a37ffa94518e.png" group-title="",BarkTV
+http://192.168.1.61:5004/auto/v18.8
+
+InTouch 64
+#EXTINF:-1 tvg-id="247" tvg-logo="https://play-lh.googleusercontent.com/4iAzOnVZ_d9zq84ew8KrZMOMjfV7537F1AAsxFocUYrsy5TJU0A9Pvicr8aM9lJH4kY" group-title="",InTouch
+http://192.168.1.61:5004/auto/v18.6
+
+C-SPAN 65
+#EXTINF:-1 tvg-id="C-SPAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0_FQF5lXUR-oA2RU2QVimpYeMxxY317ntPg&s" group-title="",C-SPAN
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=183
+
+NBT 66
+#EXTINF:-1 tvg-id="183" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4YsknUxppnS7826TIH420xn9z7QFYJmseg&s" group-title="", NBT
+http://192.168.1.61:5004/auto/v18.13
+
+Brooklyn Free Speech 67
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a8/91/9d/a8919d83-99b5-5736-a866-dba507478c5b/mza_14394426045101875564.jpg/1200x1200bf-60.jpg" group-logo="", Brooklyn Free Speech 67
+https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/04.m3u8
+
+Brooklyn Free Speech 68
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a8/91/9d/a8919d83-99b5-5736-a866-dba507478c5b/mza_14394426045101875564.jpg/1200x1200bf-60.jpg" group-logo="", Brooklyn Free Speech 68
+https://livestream.telvue.com/bric1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+Brooklyn Free Speech 69
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a8/91/9d/a8919d83-99b5-5736-a866-dba507478c5b/mza_14394426045101875564.jpg/1200x1200bf-60.jpg" group-logo="", Brooklyn Free Speech 69
+https://livestream.telvue.com/bric3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+Brooklyn Independent
+Media 70
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://videoplayer.telvue.com/dynamicthumb/W1siZiIsIjEzYzM1NzY3LTY1ZWEtNGM5Yi1iZmNmLWFlZWFmNTZmMjc2NC92b2RfcGxheWVycy9vcmctbG9nby0xNzU4NjUwNTEzLnBuZyJdXQ?sha=b4ed4699e247e366" group-logo="", Bric TV
+https://livestream.telvue.com/bric4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/bric4/stream2/chunks.m3u8
+
+OTB on NYC TV 71
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://www.capitalotb.com/wp-content/uploads/2023/03/otbtvlog.png" group-logo="", OTB on NYC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 AVG/143.0.0.0
+https://stream.castr.com/6661fe929711aa9fdfbacf40/live_ef522430243111ef8ea87d66ec1e11d3/tracks-v1/index.fmp4.m3u8|Referer=https://player.castr.com/
+https://www.capitalotb.com/otbtv/
+
+OAN 72
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://image.roku.com/developer_channels/prod/5890c16e321b6e66feb903009ed14afe3a9a575c96c2100278e7c9cee529df1a.png" group-logo="",  OANN.us
+http://192.168.1.61:5004/auto/v18.5
+
+ZLiving 73
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Z_Living_2017.png/revision/latest?cb=20220228061326" group-logo="", Z Living.us
+http://192.168.1.61:5004/auto/v18.9
+
+NYC Government 74
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/wtXnQ03pBxui_-sFaO_f7pSDv65X36g4bXCssbV9zDk.png" group-logo="", NYC Government
+http://192.168.1.61:5004/auto/v25.2
+
+CUNY on NYC TV 75
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/wtXnQ03pBxtOzec9CPoAPNYxOq8zSojBIdob9kCBJjw.png" group-logo="", CUNY on NYC TV
+http://192.168.1.61:5004/auto/v25.3
+
+GSN 76
+#EXTINF:-1 tvg-id="Game Show Network - East" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/202.png" group-title="", GSN
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=202
+https://airtel.rkdyiptv.workers.dev/live/88.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/1491.m3u8
+
+CNN Headline News 77
+#EXTINF:-1 tvg-id="HLN" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/206.png" group-title="",HLN
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=206
+https://airtel.rkdyiptv.workers.dev/live/28.m3u8
+
+fuse 78
+#EXTINF:-1 tvg-id="FUSE TV - Eastern feed" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/200.png" group-title="",FUSE
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=200
+https://airtel.rkdyiptv.workers.dev/live/2267.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/3152.m3u8
+
+Binge 79
+#EXTINF:-1 tvg-id="223" tvg-logo="https://alpha.uscreencdn.com/images/logotypes/63935/translucent-logo.1698512804.png" group-title="",Binge
+http://192.168.1.61:5004/auto/v18.12
+
+DrOz 80
+#EXTINF:-1 tvg-id="223" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShylafkN_st6ZHzFuapkeykFLVg8oT5VZAWw&s" group-title="",DrOz
+http://192.168.1.61:5004/auto/v18.14
+
+Oxygen True Crime 81
+#EXTINF:-1 tvg-id="223" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/223.png" group-title="",Oxygen.us
+http://192.168.1.61:5004/auto/v4.4
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=223
+
+NewsNation 82
+#EXTINF:-1 tvg-id="475059" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71733.png" group-title="",NewsNation.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=475059
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=481499
+
+IFC 83
+#EXTINF:-1 tvg-id="121" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/121.png" group-title="",IFC.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=121
+https://airtel.rkdyiptv.workers.dev/live/2293.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/3167.m3u8
+
+WZME MeTV+ 84
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/vXQVsQyYmwNI800DAnmDxsR-lBN6-VaTAmA0g-bFGo8.png" group-logo="", MeTV+.us
+http://192.168.1.61:5004/auto/v33.8
+
+WZME StoryTV 85
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/vXQVsQyYmwP8oAjUTD3yUqI94qWpikhxanua1PnUss8.png" group-logo="", Story Television.us
+http://192.168.1.61:5004/auto/v33.7
+
+WalkTV 86
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://pbs.twimg.com/profile_images/436146816552165377/ELt2cD2B_400x400.jpeg" group-logo="", WalkTV
+http://192.168.1.61:5004/auto/v16.2
+
+MSG 87
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKq-xhWoDeKCNsWMB7QQGZ2UwQlDhtmmzN8Q&s" group-logo="", MSG
+http://192.168.1.61:5004/au
+
+MSGSN 88
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Msg-sportsnet.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-logo="", MSGSN
+http://192.168.1.61:5004/
+
+RT NEWS 89
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/RT_America_Logo.png" group-logo="", Russia Today.us
+http://maxotts.maxdigitaltv.com/x-media/C81/master.m3u8
+
+AL JAZEERA NEWS 90
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJYEnzhoxTdC3TtX6b395jsRaFEZlS_8RGUA&s" group-logo="", AL Jazeera News
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+
+WION NEWS 91
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/960px-WION_news_Logo.svg.png" group-logo="", Wion News
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
+
+Hallmark 92
+#EXTINF:-1 tvg-id="Hallmark - Eastern Feed" tvg-logo="https://logodix.com/logo/452588.png" group-title="",HALLMARK
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5743
+https://airtel.rkdyiptv.workers.dev/live/115.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/1191.m3u8
+
+Hallmark Mystery 93
+#EXTINF:-1 tvg-id="Hallmark Movies Mysteries - Eastern" tvg-logo="https://logodix.com/logo/285984.png" group-title="",HALLMARK MOVIES & MYSTERY
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5744
+https://airtel.rkdyiptv.workers.dev/live/2301.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/2107.m3u8
+
+HSN2 94
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/wJS-kTqT8EKIYg9RaWeVCkD9DsizqKz62Xe0KeZOBZc.png" group-logo="", HSN2 94
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/medhigh.m3u8
+
+BUZZR 95
+#EXTINF:-1 tvg-id="477184" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/73895.png" group-title="",Buzzr.us
+http://192.168.1.61:5004/auto/v9.3
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=477184
+
+Travel Channel 96
+#EXTINF:-1 tvg-id="Travel US - East" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/237.png" group-title="", TRAVEL CHANNEL
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=237
+https://airtel.rkdyiptv.workers.dev/live/5412.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/7350.m3u8
+
+Food Network 97
+#EXTINF:-1 tvg-id="Food Network USA - Eastern Feed" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/197.png" group-title="",FOOD NETWORK
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=197
+https://airtel.rkdyiptv.workers.dev/live/1881.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/2432.m3u8
+
+HGTV 98
+#EXTINF:-1 tvg-id="HGTV USA - Eastern Feed" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/203.png" group-title="",HGTV
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=203
+https://airtel.rkdyiptv.workers.dev/live/51.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/1169.m3u8
+
+FS1 99
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/RKFHyjGy9fzeXT1UlO5huDddXC2FLsKqoamuZXthOpk.png" group-logo="", Fox Sports 1.us
+https://airtel.rkdyiptv.workers.dev/live/253.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/1179.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=732
+
+AWSN 100
+#EXTINF:-1 tvg-id="171" tvg-logo="https://media.licdn.com/dms/image/v2/D560BAQHj6jgR0aduNw/company-logo_200_200/company-logo_200_200/0/1732991470541/all_women_s_sports_network_logo?e=2147483647&v=beta&t=vJMlg1Lxnc8QnxS80hlXQCkPYdJFQWgU9tNZc6ESU1o" group-title="",AWSN
+http://192.168.1.61:5004/auto/v18.4
+
+BBC America 101
+#EXTINF:-1 tvg-id="BBC America - East" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/171.png" group-title="",BBC AMERICA
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=171
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5625
+https://airtel.rkdyiptv.workers.dev/live/1882.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/1002.m3u8
+
+Newsmax 102
+#EXTINF:-1 tvg-id="5657" tvg-logo="https://logodix.com/logo/2063358.jpg" group-title="",Newsmax.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5657
+https://airtel.rkdyiptv.workers.dev/live/2048.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/2959.m3u8
+
+EuroNews 103
+#EXTINF:-1 tvg-id="8556" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/8554.png" group-title="",EURONEWS HD
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=8556
+
+BBC News 104
+#EXTINF:-1 tvg-id="BBC World - North America" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/172.png" group-title="", BBC WORLD NEWS
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=172
+https://airtel.rkdyiptv.workers.dev/live/34.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/1303.m3u8
+
+Bloomberg TV 105
+#EXTINF:-1 tvg-id="5628" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/5628.png" group-title="",Bloomberg TV.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5628
+https://airtel.rkdyiptv.workers.dev/live/27.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/263.m3u8
+
+FOX Business Network 106
+#EXTINF:-1 tvg-id="Fox Business" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/5643.png" group-title="",FOX BUSINESS
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5643
+https://airtel.rkdyiptv.workers.dev/live/1880.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/2587.m3u8
+
+C-SPAN 3 107
+#EXTINF:-1 tvg-id="477161" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTCVnR4zEXk_3vGBoBdWLjgTu-Zgaiu1L7_A&s" group-title="", C SPAN.us
+http://flashvpn.nl:8080/play/JqTAWLB7k5TVOBv2I7AjFDqvjezaMpEjAUuIpZtFp3vKUpdgQ4BDD1-AH3oMskYy/ts
+
+Charge! 108
+#EXTINF:-1 tvg-id="477161" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/73872.png" group-title="",Charge!.us
+http://192.168.1.61:5004/auto/v7.3
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=477161
+
+COZI TV 109 
+#EXTINF:-1 tvg-id="Cozi - Network" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/73876.jpg" group-title="",Cozi
+http://192.168.1.61:5004/auto/v4.2
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=477165
+
+Localish (HD Only) 110
+#EXTINF:-1 tvg-id="477165" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Localish_Logo.png" group-title="", Localish
+http://192.168.1.61:5004/auto/v7.2
+
+BUSTED 111
+#EXTINF:-1 tvg-id="477165" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwGvZcONykdZa6CIi9R3algUn9j65O9j3Qdw&s" group-title="", BUSTED
+http://192.168.1.61:5004/auto/v31.7
+
+Start TV 112
+#EXTINF:-1 tvg-id="477865" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/74238.jpg" group-title="",Start TV.us
+http://192.168.1.61:5004/auto/v2.2
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=477865
+
+MOVIES! 113
+#EXTINF:-1 tvg-id="477865" tvg-logo="https://yt3.googleusercontent.com/2lPfaR6mf_lPRJNRL811z2frDVUyMU0CZf-gOZoos8afCtDmY6Ttl3i914ZoGBPz4aMO4f394JY=s900-c-k-c0x00ffffff-no-rj" group-title="",The Movie Channel.us
+http://192.168.1.61:5004/auto/v5.2
+
+Antenna TV 114
+#EXTINF:-1 tvg-id="477157" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/73868.png" group-title="",Antenna TV.us
+http://192.168.1.61:5004/auto/v11.2
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=477157
+
+C-SPAN 2 115
+#EXTINF:-1 tvg-id="184" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/184.png" group-title="", C SPAN 2.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=184
+
+MYSTERY TV 116
+#EXTINF:-1 tvg-id="No details available" tvg-name="CAR | THE WORD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/1280px-ION_Mystery_logo.svg.png" group-title="", MYSTERY
+http://192.168.1.61:5004/auto/v63.2
+
+Word Network 117
+#EXTINF:-1 tvg-id="No details available" tvg-name="CAR | THE WORD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/TWN_LOGO_1.png" group-title="",THE WORD NETWORK
+https://yupptv.rkdyiptv.workers.dev/live/7385.m3u8
+
+Outlaw 118
+#EXTINF:-1 tvg-id="184" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQa6ZHa1_S6M4GxCwzZF2TY8WJOH4UtXb1g&s" group-title="",Outlaw.us
+http://192.168.1.61:5004/auto/v48.4
+
+MVSGLD 119
+#EXTINF:-1 tvg-id="184" tvg-logo="https://play-lh.googleusercontent.com/xcLE5Sy6Tx9tL1D1-ikFNHcmVj90HJifGXvMmfwcSIV-m_xTuwiDmISGnYHYUnMqXBc" group-title="",MVSGLD
+http://192.168.1.61:5004/auto/v41.2
+
+Discovery Family Channel 120
+#EXTINF:-1 tvg-id="187" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/187.png" group-title="",Discovery Family Channel.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=187
+https://airtel.rkdyiptv.workers.dev/live/1895.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/1814.m3u8
+
+Nickelodeon 121
+#EXTINF:-1 tvg-id="Nickelodeon USA - East Feed" tvg-name="NICKELODEON US" tvg-logo="https://logodix.com/logo/1990183.jpg" group-title="", NICKELODEON
+https://airtel.rkdyiptv.workers.dev/live/229.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/1184.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5703
+
+Nicktoons TV 122
+#EXTINF:-1 tvg-id="Nicktoons - East" tvg-name="NICKTOON US HD" tvg-logo="https://logodix.com/logo/1280211.png" group-title="",NICK TOONS
+https://airtel.rkdyiptv.workers.dev/live/237.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5705
+https://yupptv.rkdyiptv.workers.dev/live/326.m3u8
+
+Nick Jr. 123
+#EXTINF:-1 tvg-id="nickjr.us" tvg-name="NICK JR US 4K" tvg-logo="https://logodix.com/logo/603672.png" group-title="",Nick Jr..us
+https://airtel.rkdyiptv.workers.dev/live/226.m3u8
+
+Teen Nick 124
+#EXTINF:-1 tvg-id="5708" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/5708.png" group-title="",TeenNick.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5708
+
+Disney Channel 125
+#EXTINF:-1 tvg-id="Disney - Eastern Feed" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/5687.jpg" group-title="",DISNEY
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5687
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5689
+https://airtel.rkdyiptv.workers.dev/live/5432.m3u8
+https://airtel.rkdyiptv.workers.dev/live/232.m3u8
+https://airtel.rkdyiptv.workers.dev/live/234.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/1183.m3u8
+
+Disney Junior 126
+#EXTINF:-1 tvg-id="Disney Junior USA - East" tvg-name="CAR | DISNEY JUNIOR" tvg-logo="https://logodix.com/logo/47922.jpg" group-title="",  DISNEY JR
+https://airtel.rkdyiptv.workers.dev/live/5433.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/1813.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5689
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5690
+
+Disney XD 127
+#EXTINF:-1 tvg-id="5692" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/5692.png" group-title="",DISNEY XD
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5692
+https://airtel.rkdyiptv.workers.dev/live/2395.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/329.m3u8
+
+Cartoon Network 32/128
+#EXTINF:-1 tvg-id="Disney XD USA - Eastern Feed" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/5684.png" group-title="",Cartoon Network.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5684
+https://airtel.rkdyiptv.workers.dev/live/230.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/328.m3u8
+
+Boomerang 129
+#EXTINF:-1 tvg-id="5680" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/5680.jpg" group-title="",Boomerang.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5680
+https://airtel.rkdyiptv.workers.dev/live/2381.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/3244.m3u8
+
+•
+•
+PBS Kids Thirteen 131
+#EXTINF:-1 tvg-id="5706" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/5706.jpg" group-title="",PBS Kids.us
+http://192.168.1.61:5004/auto/v13.2
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5706
+https://airtel.rkdyiptv.workers.dev/live/242.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/1476.m3u8
+
+PBS World (WLIW) 132
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/7Mc-zpDQmB15wFeUAO3xSiFDnEEszeqtjFZqQcCGHX8.png" group-logo="", World Channel.us
+http://192.168.1.61:5004/auto/v21.3
+
+PBS Create (WLIW) 133
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/7Mc-zpDQmB0XN6sGw0uIkjBcSFhwM3zHgXc9aSyj-J8.png" group-logo="", Create.us
+http://192.168.1.61:5004/auto/v21.2
+
+Trinity Broadcasting Network 134
+#EXTINF:-1 tvg-id="I260.14767.schedulesdirect.org" tvg-name="TBN" tvg-logo="https://logodix.com/logo/1983506.jpg" group-title="",Trinity Broadcast Network.us
+https://yupptv.rkdyiptv.workers.dev/live/1457.m3u8
+https://airtel.rkdyiptv.workers.dev/live/5444.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=477186
+
+EWTN 135
+#EXTINF:-1 tvg-id="479920" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/76289.png" group-title="",EWTN HD
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=479920
+https://airtel.rkdyiptv.workers.dev/live/5441.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/7379.m3u8
+
+Daystar 136
+#EXTINF:-1 tvg-id="185" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/185.png" group-title="",Daystar.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=185
+https://airtel.rkdyiptv.workers.dev/live/5442.m3u8
+https://airtel.rkdyiptv.workers.dev/live/202.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/7380.m3u8
+
+Catholic Faith Network 137
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/hqUmKGjs1jbkGk6pVuUmKWdiaFDMjq_u.png" group-logo="", Catholic Faith Network.us
+https://uni8rtmp.tulix.tv/cfntv/cfntv/chunklist_w577868285.m3u8
+
+Jewish Broadcasting Service 138
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/4GLjWWYP_XoTqdauD5kYponRT-Ad4gVn3A5FBd7uBQ4.png" group-logo="", Jewish Broadcasting Service 138
+https://trn07.tulix.tv/shalomtv-pc/smil:shalomtv.smil/chunklist_w278260792_b1500000_t64NzIwcA==.m3u8
+
+Bounce 139
+#EXTINF:-1 tvg-id="475060" tvg-logo="https://logodix.com/logo/1615289.png" group-title="",Bounce TV.us
+http://192.168.1.61:5004/auto/v31.2
+
+Heroes & Icons 140
+#EXTINF:-1 tvg-id="475060" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71734.jpg" group-title="",Heroes And Icons.us
+http://192.168.1.61:5004/auto/v9.4
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=475060
+
+Discovery Life 141
+#EXTINF:-1 tvg-id="188" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/188.png" group-title="",Discovery Life Channel.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=188
+https://airtel.rkdyiptv.workers.dev/live/1894.m3u8
+
+365 BLK 142
+#EXTINF:-1 tvg-id="188" tvg-logo="https://static.wixstatic.com/media/093810_910ef4ab1a414c42b6a403ee48cc0b2e~mv2.png/v1/fill/w_209,h_157,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c9b69f_9c13da2a4323456e8caac1f6fafca113~mv2.png" group-title="",The365.us
+http://192.168.1.61:5004/auto/v2.4
+
+GET 143
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/vXQVsQyYmwNJAs2TUqHFRy3Ad4Xa3CxeT1TSYEjRVDs.png" group-logo="", getTV.us
+http://192.168.1.61:5004/auto/v68.3
+http://204.12.231.10/service/scripts/1pmisgtv/isg.php?id=20000063&type=stream.m3u8
+
+PBS All Arts (WLIW) (HD only) 144
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/xqfSNVwO9Rh7jvU3UQbipYYuOsl7olULJ5azOq5J-hE.png" group-logo="", PBS All Arts
+http://192.168.1.61:5004/auto/v21.4
+
+DABL 145
+#EXTINF:-1 tvg-id="477166" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/73877.png" group-title="",Dabl.us
+http://192.168.1.61:5004/auto/v2.3
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=477166
+
+True CRMZ 146
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/466RGBOxwylEC1OetbAvuZoYdKVd8maPPer-PnJ2-zo.png" group-logo="", True Crime Network.us
+http://192.168.1.61:5004/auto/v4.3
+
+HSN 147
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/IAh5p6rdd43UXxiqqx1j1ICCXoCsr9onQVz369JWxp4.png" group-logo="", HSN
+http://192.168.1.61:5004/auto/v7.4
+
+Comet 148
+#EXTINF:-1 tvg-id="182" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/182.png" group-title="",Comet.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=182
+
+Shop LC 149
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://image.shoplc.com/emessage/m/repeat/logo/shoplc-logo_1200x634.png" group-logo="", Shop LC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/04.m3u8
+
+Discovery Turbo 150
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/sVSOdfTdw-wez72HAoMLaKi97Z-ehQxY.png" group-logo="", Discovery Turbo HD.us
+https://airtel.rkdyiptv.workers.dev/live/2700.m3u8
+http://origin.thetvapp.to/hls/Motortrend/index.m3u8
+http://204.12.231.10/service/scripts/1pmisgtv/isg.php?id=20000359&type=stream.m3u8
+
+Rewind TV 151
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/hny7f1qJejIl9cVJBrwslwAa2JSgnY7lxv39OUluico.png" group-logo="", Rewind TV.us
+http://192.168.1.61:5004/auto/v11.4
+
+Crime & Investigation
+Network (HD only) 152
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/IAh5p6rdd41FfPjOpHbwYNf_kk6bSXDx_zEbifm7B-g.png" group-logo="", Crime and Investigation Network.us
+http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
+
+MTV Live (HD only) 153
+#EXTINF:-1 tvg-id="215" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/215.png" group-title="",MTV Live.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=215
+https://airtel.rkdyiptv.workers.dev/live/1886.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/2433.m3u8
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+
+Pop 154
+#EXTINF:-1 tvg-id="POP - East" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/226.png" group-title="",Pop Tv
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=226
+
+Gem Shopping Network 155
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/vXQVsQyYmwM1f10KVcDCbpCrsoCtAAuakreRDP9AFd4.png" group-logo="", Gem Shopping Network
+https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+
+Great American Faith and Living 156
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/xqfSNVwO9Riny9rXeF6tinykDrCr6HycgC1Q_pp-av4.png" group-logo="", Great American Faith And Living.us
+http://flashvpn.nl:8080/play/zjmP9z8iUJwZbQfshWkEoOzw-ubluo2b6zQBVWPZamM/ts
+
+The Cowboy Channel 157
+#EXTINF:-1 tvg-id="480675" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77036.png" group-title="",Cowboy Channel.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=480675
+https://airtel.rkdyiptv.workers.dev/live/2615.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/3736.m3u8
+
+Nat Geo Wild 158
+#EXTINF:-1 tvg-id="I190.67331.schedulesdirect.org" tvg-name="NATIONAL GEO WILD HD USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1280px-National_Geographic_Wild_logo.svg.png" group-title="",Nat Geo Wild.us
+https://yupptv.rkdyiptv.workers.dev/live/1245.m3u8
+https://airtel.rkdyiptv.workers.dev/live/66.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=220
+
+FXX 159
+#EXTINF:-1 tvg-id="480357" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/76721.png" group-title="",FXX.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=480357
+https://airtel.rkdyiptv.workers.dev/live/84.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/1242.m3u8
+
+FYI 160
+#EXTINF:-1 tvg-id="201" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/201.png" group-title="",FYI.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=201
+https://airtel.rkdyiptv.workers.dev/live/126.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/1896.m3u8
+
+Vice TV 161
+#EXTINF:-1 tvg-id="244" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/244.png" group-title="",Vice.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=244
+https://airtel.rkdyiptv.workers.dev/live/1889.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/2340.m3u8
+
+National Geographic 162
+#EXTINF:-1 tvg-id="476809" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/73522.png" group-title="",Nat Geo.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=476809
+https://airtel.rkdyiptv.workers.dev/live/63.m3u8
+
+Smithsonian Channel 163
+#EXTINF:-1 tvg-id="155" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/155.png" group-title="",Smithsonian Channel.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=155
+https://airtel.rkdyiptv.workers.dev/live/2066.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/2963.m3u8
+
+The Grio 164
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/4GLjWWYP_XrrkiVh14xuiqGJwiZozNJkSgVnPljg5Qc.png" group-logo="", TheGrio.us
+http://192.168.1.61:5004/auto/v5.4
+
+Classic Arts Showcase 165
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/GROPiSSyOD519Mtrlc_oFXT16ToQ40mM.png" group-logo="", Classic Arts Showcase 
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+
+Cooking Channel 166
+#EXTINF:-1 tvg-id="The Cooking Channel" tvg-name="COOKING CHANNEL 4K" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/01/Cooking-Channel-Logo.png" group-title="", COOKING CHANNEL
+https://airtel.rkdyiptv.workers.dev/live/49.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/360.m3u8
+
+Magnolia Network 167
+#EXTINF:-1 tvg-id="477957" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/74329.png" group-title="", Magnolia Network.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=477957
+https://airtel.rkdyiptv.workers.dev/live/2707.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/3788.m3u8
+
+Justice Central 168
+#EXTINF:-1 tvg-id="No details available" tvg-name="CAR | JUSTICE CENTRAL" tvg-logo="https://yt3.googleusercontent.com/m0ZxFFn7gr55cGe8kCUHpKABOlNSjIxPMV7UhfP2-hIdRxeVRveL63Oeapw5JkfuEVlpplqa=s900-c-k-c0x00ffffff-no-rj" group-title="", Justice Central TV.us
+https://airtel.rkdyiptv.workers.dev/live/5420.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/7358.m3u8
+
+Recipe.TV 169
+#EXTINF:-1 tvg-id="477182" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/73893.png" group-title="",Recipe TV.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=477182
+
+Science Channel 170
+#EXTINF:-1 tvg-id="190" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/190.png" group-title="",Science Channel.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=190
+https://airtel.rkdyiptv.workers.dev/live/57.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/1246.m3u8
+
+Investigation Discovery 171
+#EXTINF:-1 tvg-id="Investigation Discovery USA - Eastern" tvg-name="INVESTIGATION DISCOVERY 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png" group-title="",ID
+https://airtel.rkdyiptv.workers.dev/live/59.m3u8
+
+Destination America 172
+#EXTINF:-1 tvg-id="186" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/186.png" group-title="",Destination America.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=186
+https://airtel.rkdyiptv.workers.dev/live/1893.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/3044.m3u8
+
+American Heroes Channel 173
+#EXTINF:-1 tvg-id="167" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/167.png" group-title="",American Heroes Channel.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=167
+
+LMN 174
+#EXTINF:-1 tvg-id="Lifetime Movies - East" tvg-name="LMN HD" tvg-logo="" group-title="", LIFETIME MOVIES
+https://yupptv.rkdyiptv.workers.dev/live/2105.m3u8
+https://airtel.rkdyiptv.workers.dev/live/127.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=476825
+
+FETV 175
+#EXTINF:-1 tvg-id="480032" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/76398.png" group-title="",FETV.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=480032
+
+Cleo TV 176
+#EXTINF:-1 tvg-id="477163" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/73874.jpg" group-title="",Cleo TV.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=477163
+
+ReelzChannel 177
+#EXTINF:-1 tvg-id="5770" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/5770.png" group-title="",Reelz.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5770
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=228
+https://airtel.rkdyiptv.workers.dev/live/128.m3u8
+
+TV One 178
+#EXTINF:-1 tvg-id="241" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/241.png" group-title="",TV One.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=241
+
+LOGO TV 179
+#EXTINF:-1 tvg-id="210" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/210.png" group-title="",Logo.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=210
+
+OWN 180
+#EXTINF:-1 tvg-id="oprahwinfreynetwork.us" tvg-name="OWN HD USA" tvg-logo="" group-title=""OWN.us
+https://yupptv.rkdyiptv.workers.dev/live/2621.m3u8
+https://airtel.rkdyiptv.workers.dev/live/1884.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=222
+
+
+
+
+Impact Network 181
+•
+•
+•
+•
+•
+•
+Jewelry Television 182
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/vXQVsQyYmwO4v-Ij6Gxce59rkLE91iamE1jVllTTh7M.png" group-logo="", JTV.us
+http://192.168.1.61:5004/auto/v31.7
+
+QVC2 183
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/vXQVsQyYmwNW95a_iC_nGhju7t8BxGjWH1MW_7i8fiI.png" group-logo="", QVC2 183
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/medhigh.m3u8
+
+Great American Family 184
+#EXTINF:-1 tvg-id="477172" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/73883.png" group-title="",GAC Family.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=477172
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=8564
+
+BET Her 185
+#EXTINF:-1 tvg-id="475395" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/72068.png" group-title="",BET Her.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=475395
+https://airtel.rkdyiptv.workers.dev/live/5494.m3u8
+
+MTV Classic 186
+#EXTINF:-1 tvg-id="8660" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/8658.png" group-title="",MTV Classic.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=8660
+
+CMT 187
+#EXTINF:-1 tvg-id="475084" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71758.png" group-title="",CMT.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=475084
+
+AXS 188
+#EXTINF:-1 tvg-id="No details available" tvg-name="CAR | AXS" tvg-logo="https://yt3.googleusercontent.com/o1TQsOxcVjGm1hJRrQ-hUwPUbsWNZlfxr7-L7Os_xU8X7U0n2vr5Tw19JiQoJER8xLuZ7zrk=s900-c-k-c0x00ffffff-no-rj" group-title="", AXS.us
+https://yupptv.rkdyiptv.workers.dev/live/7343.m3u8
+https://airtel.rkdyiptv.workers.dev/live/5405.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=475433
+
+Hallmark Family 189
+#EXTINF:-1 tvg-id="hallmarkfamily.us" tvg-name="HALLMARK FAMILY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWuzik0Quy1plPW4N4iQQZ_pmTKeZaRIY-Rg&s" group-title="",Hallmark Family.us
+https://yupptv.rkdyiptv.workers.dev/live/3140.m3u8
+
+FX Movie Channel 190
+#EXTINF:-1 tvg-id="fxm.us" tvg-name="FXM HD" tvg-logo="https://logodix.com/logo/1860176.jpg" group-title="",FX Movie Channel.us
+https://yupptv.rkdyiptv.workers.dev/live/3172.m3u8
+https://airtel.rkdyiptv.workers.dev/live/2299.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=476828
+
+HDNet Movies 191
+#EXTINF:-1 tvg-id="hdnetmovies.us" tvg-name="HDNET MOVIES HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-rCo1oa_wdVLsAhwO61LL_4M49JxzRUqR_Q&s" group-title="",HDNet Movies.us
+https://yupptv.rkdyiptv.workers.dev/live/3169.m3u8
+https://airtel.rkdyiptv.workers.dev/live/2291.m3u8
+
+SundanceTV 192
+#EXTINF:-1 tvg-id="231" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/231.png" group-title="",Sundance Channel.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=231
+https://airtel.rkdyiptv.workers.dev/live/2292.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/3168.m3u8
+
+Fox Weather 193
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/4GLjWWYP_Xod56g85w6YtVAVfvxAs7kWGlrKUbzBcA0.png" group-logo="", Fox Weather
+http://192.168.1.61:5004/auto/v5.3
+•
+•
+•
+•
+•
+MTV Tr3s 195
+•
+•
+•
+NBC Universo 197
+#EXTINF:-1 tvg-id="No details available" tvg-name="LAT | NBC UNIVERSO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Universo_2017.svg" group-title="", Universo.us
+https://airtel.rkdyiptv.workers.dev/live/5936.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/7765.m3u8
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+http://204.12.231.10/service/scripts/1pmisgtv/isg.php?id=20000456&type=stream.m3u8
+
+Galavisión 198/1006
+#EXTINF:-1 tvg-id="" tvg-name="GALAVISION" tvg-logo="https://logodix.com/logo/2014669.jpg" group-title="",GALAVISION
+https://yupptv.rkdyiptv.workers.dev/live/1997.m3u8
+https://airtel.rkdyiptv.workers.dev/live/993.m3u8
+
+
+
+
+YES Network 89/201
+#EXTINF:-1 tvg-id="909" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/909.png" group-title="",YES Network.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=909
+https://airtel.rkdyiptv.workers.dev/live/1890.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/3325.m3u8
+
+SportsNet New York 60/202
+#EXTINF:-1 tvg-id="719" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/719.png" group-title="",SNY.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=480033
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=719
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=477047
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=721
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=477048
+https://yupptv.rkdyiptv.workers.dev/live/2408.m3u8
+
+MSG 87/203
+#EXTINF:-1 tvg-id="735" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/735.png" group-title="",MSG.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=735
+https://airtel.rkdyiptv.workers.dev/live/2687.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/3768.m3u8
+
+MSG Sportsnet 88/204
+#EXTINF:-1 tvg-id="msgsnplus.us" tvg-name="MSGSN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Msg-sportsnet.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="",MSGSN
+https://yupptv.rkdyiptv.workers.dev/live/3771.m3u8
+https://airtel.rkdyiptv.workers.dev/live/2690.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=738
+
+Sports Overflow 1 90/205
+#EXTINF:-1 tvg-id="No details available" tvg-name="CAR | FLOW SPORTS" tvg-logo="https://s.yimg.com/uu/api/res/1.2/_85KgjR1Et9CbJS.QCmq8g--~B/aD0zNDg7dz01MTI7YXBwaWQ9eXRhY2h5b24-/http://globalfinance.zenfs.com/images/US_AFTP_MarketWire_XHTML/TN-100788_flowsports_original.jpg" group-title="",FLOW SPORTS
+https://airtel.rkdyiptv.workers.dev/live/5386.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/7324.m3u8
+
+Sports Overflow 2 206
+#EXTINF:-1 tvg-id="No details available" tvg-name="CAR | FLOW SPORTS 2" tvg-logo="https://s.yimg.com/uu/api/res/1.2/_85KgjR1Et9CbJS.QCmq8g--~B/aD0zNDg7dz01MTI7YXBwaWQ9eXRhY2h5b24-/http://globalfinance.zenfs.com/images/US_AFTP_MarketWire_XHTML/TN-100788_flowsports_original.jpg" group-title="", FLOW SPORTS 2
+https://airtel.rkdyiptv.workers.dev/live/5387.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/7325.m3u8
+•
+•
+•
+ESPN 36/210
+#EXTINF:-1 tvg-id="No details available" tvg-name="CAR | ESPN CARIBBEAN" tvg-logo="https://logodix.com/logo/48284.png" group-title="",ESPN.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=476839
+https://yupptv.rkdyiptv.workers.dev/live/7327.m3u8
+https://airtel.rkdyiptv.workers.dev/live/5389.m3u8
+
+ESPN2 35/211
+#EXTINF:-1 tvg-id="No details available" tvg-name="CAR | ESPN 2 CARIBBEAN" tvg-logo="https://logodix.com/logo/313652.png" group-title="", espn2.us
+https://yupptv.rkdyiptv.workers.dev/live/7328.m3u8
+https://airtel.rkdyiptv.workers.dev/live/5390.m3u8
+•
+
+
+
+•
+•
+FOX Sports 1 99/213
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="FOX SPORTS1 HD" tvg-logo="https://logodix.com/logo/571185.jpg" group-title="",Fox Sports 1.us
+https://yupptv.rkdyiptv.workers.dev/live/1179.m3u8
+https://airtel.rkdyiptv.workers.dev/live/253.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=732
+
+FOX Sports 214
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="FOX SPORTS2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="",Fox Sports 2.us
+https://yupptv.rkdyiptv.workers.dev/live/1168.m3u8
+https://airtel.rkdyiptv.workers.dev/live/252.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=733
+
+CBS Sports Network 215
+#EXTINF:-1 tvg-id="I158.59250.schedulesdirect.org" tvg-name="CBS SN 4K" tvg-logo="https://images.sidearmdev.com/convert?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fundsports.com%2Fimages%2F2012%2F1%2F31%2FSKJNJXRWMJBJPXM.20120131203716.jpg&type=webp" group-title="",CBS Sports.us
+https://airtel.rkdyiptv.workers.dev/live/277.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=855
+
+ESPNEWS 216
+#EXTINF:-1 tvg-id="475237" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71910.png" group-title="",ESPN News.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=475237
+https://airtel.rkdyiptv.workers.dev/live/257.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/2069.m3u8
+
+ESPNU 217
+#EXTINF:-1 tvg-id="476957" tvg-logo="https://logodix.com/logo/1086806.jpg" group-title="",ESPNU.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=476957
+https://airtel.rkdyiptv.workers.dev/live/256.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/2070.m3u8
+•
+•
+•
+NFL Network 219
+#EXTINF:-1 tvg-id="890" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/890.png" group-title=",NFL Network.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=890
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=473125
+https://airtel.rkdyiptv.workers.dev/live/273.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/346.m3u8
+
+NFL RedZone 220
+#EXTINF:-1 tvg-id="473123" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/69785.png" group-title="",NFL REDZONE HD
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=473123
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=481264
+https://airtel.rkdyiptv.workers.dev/live/344.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/2459.m3u8
+
+
+
+
+NHL Network 223/268
+#EXTINF:-1 tvg-id="826" tvg-logo="https://logodix.com/logo/47557.png" group-title="",NHL Network.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=826
+https://yupptv.rkdyiptv.workers.dev/live/1195.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=475498
+https://airtel.rkdyiptv.workers.dev/live/272.m3u8
+
+The Golf Channel 224
+#EXTINF:-1 tvg-id="I416.65384.schedulesdirect.org" tvg-name="NBC GOLF HD" tvg-logo="https://assets.golfchannel.com/dims4/default/6da39d2/2147483647/strip/true/crop/304x171+0+3/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fca%2Fb9%2F8521681bbea7ad8b97e57cdcc1f2%2Fnew-golf-channel-logo-304.jpg" group-title="",Golf Channel.us
+https://yupptv.rkdyiptv.workers.dev/live/1229.m3u8
+https://airtel.rkdyiptv.workers.dev/live/279.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=472382
+•
+•
+
+
+Tennis Channel (HD only) 226
+#EXTINF:-1 tvg-id="901" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/901.png" group-title="",Tennis Channel.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=901
+https://airtel.rkdyiptv.workers.dev/live/278.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/1500.m3u8
+
+ESPN Deportes 227
+#EXTINF:-1 tvg-id="476956" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/73669.png" group-title="",ESPN Deportes.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=476956
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=763
+https://airtel.rkdyiptv.workers.dev/live/1004.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/2008.m3u8
+
+FOX Deportes 228
+#EXTINF:-1 tvg-id="806" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/806.png" group-title="",FOX Deportes.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=806
+https://airtel.rkdyiptv.workers.dev/live/5976.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/7805.m3u8
+
+TUDN 229
+#EXTINF:-1 tvg-id="No details available" tvg-name="LAT | TUDN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="",TUDN.us
+https://yupptv.rkdyiptv.workers.dev/live/7804.m3u8
+https://airtel.rkdyiptv.workers.dev/live/5975.m3u8
+
+beIN Sports en Español 230/1070
+#EXTINF:-1 tvg-id="476852" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgQI_NSYNGp4XcVq-aqD6Wmrw4JFHRo66HLQ&s" group-title="",BEIN SPORTS SPANISH
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=476852
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=476810
+https://airtel.rkdyiptv.workers.dev/live/2585.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/2656.m3u8
+
+beIN Sports 231
+#EXTINF:-1 tvg-id="476851" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/73564.png" group-title="",beIN Sports.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=476851
+https://airtel.rkdyiptv.workers.dev/live/2212.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/3036.m3u8
+
+FOX Soccer Plus 232
+#EXTINF:-1 tvg-id="796" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/796.png" group-title="",Fox Soccer Plus.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=796
+
+
+
+Game+ 238
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/4GLjWWYP_XrHPOSEPOwhbMxMedtW_eUwPH3l47xxYEE.png" group-logo="", Game+
+https://airtel.rkdyiptv.workers.dev/live/2842.m3u8
+https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
+
+Willow 239
+#EXTINF:-1 tvg-id="I712.68605.schedulesdirect.org" tvg-name="WILLOW HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDCssT7cuAKw99MEBAzMss5iEzEiDvXz9Cww&s" group-title="",WILLOW HD
+https://yupptv.rkdyiptv.workers.dev/live/900.m3u8
+https://airtel.rkdyiptv.workers.dev/live/6283.m3u8
+https://airtel.rkdyiptv.workers.dev/live/2027.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=472304
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=1147
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=1144
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=472287
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=472302
+
+
+
+
+
+
+
+
+World Fishing Network 241
+#EXTINF:-1 tvg-id="907" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/907.png" group-title="",World Fishing Network.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=196
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=907
+https://airtel.rkdyiptv.workers.dev/live/123.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/1892.m3u8
+
+Sportsman Channel 242
+#EXTINF:-1 tvg-id="473381" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6551.png" group-title="",SPORTSMAN CHANNEL
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=473381
+
+Racer 243
+#EXTINF:-1 tvg-id="No details available" tvg-name="CAR | MAV TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVR7_T0PwXjd1-ZPWwFOvnhMs6KSOx1qJgmQ&s" group-title="", MAVTV.us
+https://yupptv.rkdyiptv.workers.dev/live/7355.m3u8
+https://airtel.rkdyiptv.workers.dev/live/5417.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=882
+
+Fight Network 244
+#EXTINF:-1 tvg-id="867" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/867.png" group-title="",FIGHT NETWORK
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=867
+https://airtel.rkdyiptv.workers.dev/live/276.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/2095.m3u8
+
+FanDuel TV 245
+#EXTINF:-1 tvg-id="867" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/867.png" group-title="",FanDuel TV.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=476840
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=476841
+https://airtel.rkdyiptv.workers.dev/live/2744.m3u8
+https://airtel.rkdyiptv.workers.dev/live/2745.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/3677.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/3678.m3u8
+
+SEC 246
+#EXTINF:-1 tvg-id="900" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/900.png" group-title="",SEC NETWORK
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=900
+https://airtel.rkdyiptv.workers.dev/live/2470.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/3562.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=476958
+
+BTN 247
+#EXTINF:-1 tvg-id="850" tvg-logo="https://logodix.com/logo/2069639.jpg" group-title="",Big Ten Network.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=850
+https://airtel.rkdyiptv.workers.dev/live/280.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/1011.m3u8
+
+ACC Network 248
+#EXTINF:-1 tvg-id="accnetwork.us" tvg-name="ACC NETWORK 4K" tvg-logo="https://logodix.com/logo/1753715.jpg" group-title="", ACC Network.us
+https://yupptv.rkdyiptv.workers.dev/live/6767.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/6768.m3u8
+https://airtel.rkdyiptv.workers.dev/live/3966.m3u8
+https://airtel.rkdyiptv.workers.dev/live/3967.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=9030
+
+
+
+NHL Center Ice 254 1
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/Pn3_ZxECk3qzfXYePg7u1mpnb4f6LS83qt_SBK4RKL0.png" group-logo="", NHL Center Ice 1
+https://airtel.rkdyiptv.workers.dev/live/4989.m3u8
+
+NHL Center Ice 255 2
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/Pn3_ZxECk3qzfXYePg7u1mpnb4f6LS83qt_SBK4RKL0.png" group-logo="", NHL Center Ice 2
+https://airtel.rkdyiptv.workers.dev/live/4990.m3u8
+
+NHL Center Ice 256 3
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/Pn3_ZxECk3qzfXYePg7u1mpnb4f6LS83qt_SBK4RKL0.png" group-logo="", NHL Center Ice 3
+https://airtel.rkdyiptv.workers.dev/live/4991.m3u8
+
+NHL Center Ice 257 4
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/Pn3_ZxECk3qzfXYePg7u1mpnb4f6LS83qt_SBK4RKL0.png" group-logo="", NHL Center Ice 4
+https://airtel.rkdyiptv.workers.dev/live/4992.m3u8
+
+NHL Center Ice 258 5
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/Pn3_ZxECk3qzfXYePg7u1mpnb4f6LS83qt_SBK4RKL0.png" group-logo="", NHL Center Ice 5
+https://airtel.rkdyiptv.workers.dev/live/4993.m3u8
+
+NHL Center Ice 259 6
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/Pn3_ZxECk3qzfXYePg7u1mpnb4f6LS83qt_SBK4RKL0.png" group-logo="", NHL Center Ice 6
+https://airtel.rkdyiptv.workers.dev/live/4994.m3u8
+
+NHL Center Ice 260 7
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/Pn3_ZxECk3qzfXYePg7u1mpnb4f6LS83qt_SBK4RKL0.png" group-logo="", NHL Center Ice 7
+https://airtel.rkdyiptv.workers.dev/live/4995.m3u8
+
+NHL Center Ice 261 8
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/Pn3_ZxECk3qzfXYePg7u1mpnb4f6LS83qt_SBK4RKL0.png" group-logo="", NHL Center Ice 8
+https://airtel.rkdyiptv.workers.dev/live/4996.m3u8
+
+NHL Center Ice 262 9
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/Pn3_ZxECk3qzfXYePg7u1mpnb4f6LS83qt_SBK4RKL0.png" group-logo="", NHL Center Ice 9
+https://airtel.rkdyiptv.workers.dev/live/4997.m3u8
+
+NHL Center Ice 263 10
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/Pn3_ZxECk3qzfXYePg7u1mpnb4f6LS83qt_SBK4RKL0.png" group-logo="", NHL Center Ice 10
+https://airtel.rkdyiptv.workers.dev/live/4998.m3u8
+
+NHL Center Ice 264 11
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/Pn3_ZxECk3qzfXYePg7u1mpnb4f6LS83qt_SBK4RKL0.png" group-logo="", NHL Center Ice 11
+https://airtel.rkdyiptv.workers.dev/live/4999.m3u8
+
+NHL Center Ice 265 12
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/Pn3_ZxECk3qzfXYePg7u1mpnb4f6LS83qt_SBK4RKL0.png" group-logo="", NHL Center Ice 12
+https://airtel.rkdyiptv.workers.dev/live/5000.m3u8
+
+NHL Center Ice 266 13
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/Pn3_ZxECk3qzfXYePg7u1mpnb4f6LS83qt_SBK4RKL0.png" group-logo="", NHL Center Ice 13
+https://airtel.rkdyiptv.workers.dev/live/5001.m3u8
+
+NHL Network 268
+#EXTINF:-1 group-logo="" group-title="" tvg-id="Badminton" tvg-logo="https://cdn2.titantv.com/IAh5p6rdd41Q4X_tyue3_2ZN5rxJ7I2rttWNZy658DE.png" group-logo="", NHL Network
+https://airtel.rkdyiptv.workers.dev/live/5002.m3u8
+
+NBA TV 269
+#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV" tvg-logo="https://logodix.com/logo/71322.jpg" group-title="",NBA TV
+http://212.102.60.231/NBA_TV/index.m3u8
+
+NBA League Pass 1 270
+#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="" tvg-logo="https://cdn.nba.com/manage/2024/09/NBA_League_Pass_horiz_onDkBkgd.png" group-title="",NBA League Pass 1
+https://airtel.rkdyiptv.workers.dev/live/5053.m3u8
+
+NBA League Pass 2 271
+#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="" tvg-logo="https://cdn.nba.com/manage/2024/09/NBA_League_Pass_horiz_onDkBkgd.png" group-title="",NBA League Pass 2
+https://airtel.rkdyiptv.workers.dev/live/5054.m3u8
+
+NBA League Pass 3 272
+#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="" tvg-logo="https://cdn.nba.com/manage/2024/09/NBA_League_Pass_horiz_onDkBkgd.png" group-title="",NBA League Pass 3
+https://airtel.rkdyiptv.workers.dev/live/5055.m3u8
+
+NBA League Pass 4 273
+#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="" tvg-logo="https://cdn.nba.com/manage/2024/09/NBA_League_Pass_horiz_onDkBkgd.png" group-title="",NBA League Pass 4
+https://airtel.rkdyiptv.workers.dev/live/5056.m3u8
+
+NBA League Pass 5 274
+#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="" tvg-logo="https://cdn.nba.com/manage/2024/09/NBA_League_Pass_horiz_onDkBkgd.png" group-title="",NBA League Pass 5
+https://airtel.rkdyiptv.workers.dev/live/5057.m3u8
+
+NBA League Pass 6 275
+#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="" tvg-logo="https://cdn.nba.com/manage/2024/09/NBA_League_Pass_horiz_onDkBkgd.png" group-title="",NBA League Pass 6
+https://airtel.rkdyiptv.workers.dev/live/5058.m3u8
+
+NBA League Pass 7 276
+#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="" tvg-logo="https://cdn.nba.com/manage/2024/09/NBA_League_Pass_horiz_onDkBkgd.png" group-title="",NBA League Pass 7
+https://airtel.rkdyiptv.workers.dev/live/5059.m3u8
+
+NBA League Pass 8 277
+#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="" tvg-logo="https://cdn.nba.com/manage/2024/09/NBA_League_Pass_horiz_onDkBkgd.png" group-title="",NBA League Pass 8
+https://airtel.rkdyiptv.workers.dev/live/5060.m3u8
+
+NBA League Pass 9 278
+#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="" tvg-logo="https://cdn.nba.com/manage/2024/09/NBA_League_Pass_horiz_onDkBkgd.png" group-title="",NBA League Pass 9
+https://airtel.rkdyiptv.workers.dev/live/5061.m3u8
+
+NBA League Pass 10 279
+#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="" tvg-logo="https://cdn.nba.com/manage/2024/09/NBA_League_Pass_horiz_onDkBkgd.png" group-title="",NBA League Pass 10
+https://airtel.rkdyiptv.workers.dev/live/5062.m3u8
+
+HBOMAX-MOVIES 1 HD 280
+#EXTINF:-1 tvg-id="No details available" tvg-name="HBOMAX-MOVIES 1 HD" tvg-logo="" group-title="",HBOMAX-MOVIES 1 HD
+https://yupptv.rkdyiptv.workers.dev/live/3821.m3u8
+
+HBOMAX-MOVIES 2 HD 281
+#EXTINF:-1 tvg-id="No details available" tvg-name="HBOMAX-MOVIES 2 HD" tvg-logo="" group-title="",HBOMAX-MOVIES 2 HD
+https://yupptv.rkdyiptv.workers.dev/live/3823.m3u8
+
+HBOMAX-MOVIES 3 HD 282
+#EXTINF:-1 tvg-id="No details available" tvg-name="HBOMAX-MOVIES 3 HD" tvg-logo="" group-title="",HBOMAX-MOVIES 3 HD
+https://yupptv.rkdyiptv.workers.dev/live/3834.m3u8
+
+HBOMAX-MOVIES 4 HD 283
+#EXTINF:-1 tvg-id="No details available" tvg-name="HBOMAX-MOVIES 4 HD" tvg-logo="" group-title="",HBOMAX-MOVIES 4 HD
+https://yupptv.rkdyiptv.workers.dev/live/3843.m3u8
+
+HBOMAX-ANIMATED MOVIES HD 284
+#EXTINF:-1 tvg-id="No details available" tvg-name="HBOMAX-ANIMATED MOVIES HD" tvg-logo="" group-title="",HBOMAX-ANIMATED MOVIES HD
+https://yupptv.rkdyiptv.workers.dev/live/3852.m3u8
+
+HBOMAX-COMEDY MOVIES 2 HD 285
+#EXTINF:-1 tvg-id="No details available" tvg-name="HBOMAX-COMEDY MOVIES 2 HD" tvg-logo="" group-title="",HBOMAX-COMEDY MOVIES 2 HD
+https://yupptv.rkdyiptv.workers.dev/live/3857.m3u8
+
+HBOMAX-CRIME MOVIES HD 286
+#EXTINF:-1 tvg-id="No details available" tvg-name="HBOMAX-CRIME MOVIES HD" tvg-logo="" group-title="",HBOMAX-CRIME MOVIES HD
+https://yupptv.rkdyiptv.workers.dev/live/3864.m3u8
+
+HBOMAX-DOCUMENTARY MOVIES HD 287
+#EXTINF:-1 tvg-id="No details available" tvg-name="HBOMAX-DOCUMENTARY MOVIES HD" tvg-logo="" group-title="",HBOMAX-DOCUMENTARY MOVIES HD
+https://yupptv.rkdyiptv.workers.dev/live/3873.m3u8
+
+HBOMAX-DRAMA MOVIES HD 288
+#EXTINF:-1 tvg-id="No details available" tvg-name="HBOMAX-DRAMA MOVIES HD" tvg-logo="" group-title="",HBOMAX-DRAMA MOVIES HD
+https://yupptv.rkdyiptv.workers.dev/live/3886.m3u8
+
+HBOMAX-ADVENTURE MOVIES HD 289
+#EXTINF:-1 tvg-id="No details available" tvg-name="HBOMAX-ADVENTURE MOVIES HD" tvg-logo="" group-title="",HBOMAX-ADVENTURE MOVIES HD
+https://yupptv.rkdyiptv.workers.dev/live/3891.m3u8
+
+HBOMAX-GENRE FAMILY MOVIES HD 290
+#EXTINF:-1 tvg-id="No details available" tvg-name="HBOMAX-GENRE FAMILY MOVIES HD" tvg-logo="" group-title="",HBOMAX-GENRE FAMILY MOVIES HD
+https://yupptv.rkdyiptv.workers.dev/live/3897.m3u8
+
+HBOMAX-FANTASY MOVIES HD 291
+#EXTINF:-1 tvg-id="No details available" tvg-name="HBOMAX-FANTASY MOVIES HD" tvg-logo="" group-title="",HBOMAX-FANTASY MOVIES HD
+https://yupptv.rkdyiptv.workers.dev/live/3907.m3u8
+
+HBOMAX-BIOGRAPHY MOVIES HD 292
+#EXTINF:-1 tvg-id="No details available" tvg-name="HBOMAX-BIOGRAPHY MOVIES HD" tvg-logo="" group-title="",HBOMAX-BIOGRAPHY MOVIES HD
+https://yupptv.rkdyiptv.workers.dev/live/3914.m3u8
+
+HBOMAX-HORROR MOVIES HD 293
+#EXTINF:-1 tvg-id="No details available" tvg-name="HBOMAX-HORROR MOVIES HD" tvg-logo="" group-title="",HBOMAX-HORROR MOVIES HD
+https://yupptv.rkdyiptv.workers.dev/live/3921.m3u8
+
+HBOMAX-MYSTERY MOVIES HD 294
+#EXTINF:-1 tvg-id="No details available" tvg-name="HBOMAX-MYSTERY MOVIES HD" tvg-logo="" group-title="",HBOMAX-MYSTERY MOVIES HD
+https://yupptv.rkdyiptv.workers.dev/live/3929.m3u8
+
+HBOMAX-ROMANCE MOVIES HD 295
+#EXTINF:-1 tvg-id="No details available" tvg-name="HBOMAX-ROMANCE MOVIES HD" tvg-logo="" group-title="",HBOMAX-ROMANCE MOVIES HD
+https://yupptv.rkdyiptv.workers.dev/live/3935.m3u8
+
+HBOMAX-SPORTS MOVIES HD 296
+#EXTINF:-1 tvg-id="No details available" tvg-name="HBOMAX-SPORTS MOVIES HD" tvg-logo="" group-title="",HBOMAX-SPORTS MOVIES HD
+https://yupptv.rkdyiptv.workers.dev/live/3950.m3u8
+
+HBOMAX-SCI-FI MOVIES HD 297
+#EXTINF:-1 tvg-id="No details available" tvg-name="HBOMAX-SCI-FI MOVIES HD" tvg-logo="" group-title="",HBOMAX-SCI-FI MOVIES HD
+https://yupptv.rkdyiptv.workers.dev/live/3949.m3u8
+
+HBOMAX-THRILLER MOVIES HD 298
+#EXTINF:-1 tvg-id="No details available" tvg-name="HBOMAX-THRILLER MOVIES HD" tvg-logo="" group-title="",HBOMAX-THRILLER MOVIES HD
+https://yupptv.rkdyiptv.workers.dev/live/3959.m3u8
+
+HBOMAX-ACTION MOVIES HD 299
+#EXTINF:-1 tvg-id="No details available" tvg-name="HBOMAX-ACTION MOVIES HD" tvg-logo="" group-title="",HBOMAX-ACTION MOVIES HD
+https://yupptv.rkdyiptv.workers.dev/live/3967.m3u8
+
+HBOMAX-COMEDY MOVIES HD 300
+#EXTINF:-1 tvg-id="No details available" tvg-name="HBOMAX-COMEDY MOVIES 1 HD" tvg-logo="" group-title="",HBOMAX-COMEDY MOVIES HD
+https://yupptv.rkdyiptv.workers.dev/live/3973.m3u8
+
+HBO 301
+#EXTINF:-1 tvg-id="476829" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/73542.png" group-title="",HBO.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=476829
+https://airtel.rkdyiptv.workers.dev/live/163.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/1368.m3u8
+
+HBO Hits 302 IS NOW HBO 2 USA HD
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO 2 USA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="",HBO Hits
+https://yupptv.rkdyiptv.workers.dev/live/3107.m3u8
+https://airtel.rkdyiptv.workers.dev/live/2265.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5745
+
+HBO Comedy 303
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="HBO COMEDY USA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/HBO_Comedy_HD_2008.svg/revision/latest?cb=20231013183947" group-title="",HBO Comedy.us
+https://yupptv.rkdyiptv.workers.dev/live/1364.m3u8
+https://airtel.rkdyiptv.workers.dev/live/167.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5746
+
+HBO Movies 304 IS NOW HBO ZONE USA HD
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="HBO ZONE USA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/HBO_Movies_2025.svg/revision/latest/scale-to-width-down/250?cb=20250904231017" group-title="", HBO Movies.us
+https://yupptv.rkdyiptv.workers.dev/live/1365.m3u8
+https://airtel.rkdyiptv.workers.dev/live/168.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5750
+
+HBO Latino 305
+#EXTINF:-1 tvg-id="No details available" tvg-name="LAT | HBO EAST HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Latino_Logo.svg/1280px-HBO_Latino_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="", HBO Latino
+https://yupptv.rkdyiptv.workers.dev/live/7865.m3u8
+https://airtel.rkdyiptv.workers.dev/live/6036.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/2011.m3u8
+
+HBO West 306
+#EXTINF:-1 tvg-id="hbowest.us" tvg-name="HBO WEST USA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTahgNF-f-BCjPBhZfJT3Xyj6uvGZ49tHvQ0w&s" group-title="",HBO WEST
+https://yupptv.rkdyiptv.workers.dev/live/1362.m3u8
+https://airtel.rkdyiptv.workers.dev/live/6037.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=476830
+
+
+
+
+HBO Hits West 307  NOW HBO2 WEST HD
+#EXTINF:-1 tvg-id="No details available" tvg-name="LAT | HBO2 WEST HD" tvg-logo="" group-title="", HBO Hits West
+
+
+
+
+
+
+
+
+
+HBO Drama West 308
+
+
+
+
+HBO Drama 310 NOW HBO SIGNATURE USA HD
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO SIGNATURE USA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/HBO_Drama_2025.svg/revision/latest/scale-to-width-down/250?cb=20250904230842" group-title="", HBO Drama.us
+https://yupptv.rkdyiptv.workers.dev/live/1363.m3u8
+https://airtel.rkdyiptv.workers.dev/live/165.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5749
+
+
+•
+Showtime On Demand1,8 320
+•
+
+
+
+Paramount+ with Showtime 321 NOW SHOWTIME HD
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="SHOWTIME HD" tvg-logo="https://variety.com/wp-content/uploads/2023/12/Paramount-With-Showtime-Linear-Rebrand.png?w=799&h=449&crop=1" group-title="", Paramount+ with Showtime.us
+https://yupptv.rkdyiptv.workers.dev/live/1872.m3u8
+https://airtel.rkdyiptv.workers.dev/live/175.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5780
+
+Showtime 2 322
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="SHOWTIME 2 HD" tvg-logo="" group-title="",SHOWTIME 2.us
+https://yupptv.rkdyiptv.workers.dev/live/1860.m3u8
+https://airtel.rkdyiptv.workers.dev/live/177.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5776
+
+SHOxBET 323
+#EXTINF:-1 tvg-id="shoxbet.us" tvg-name="SHOX BET HD" tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/shoxbet-1200-x-674-network-logo.png?q=70&fit=crop&w=1200&h=628&dpr=1" group-title="",SHOxBET.us
+https://yupptv.rkdyiptv.workers.dev/live/3116.m3u8
+https://airtel.rkdyiptv.workers.dev/live/2266.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5787
+
+Showtime Next 324
+#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="SHOWTIME NEXT HD" tvg-logo="" group-title="",SHOWTIME NEXT.us
+https://yupptv.rkdyiptv.workers.dev/live/3123.m3u8
+https://airtel.rkdyiptv.workers.dev/live/2276.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5781
+
+Showtime Family Zone 325
+#EXTINF:-1 tvg-id="showtimefamilyzone.us" tvg-name="SHOWTIME FMAMILY ZONE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF8doD4ATcxF2Mr1Uf_pUFjItQKKXTDj0JAw&s" group-title="",SHOWTIME FAMILY ZONE.us
+https://yupptv.rkdyiptv.workers.dev/live/3121.m3u8
+https://airtel.rkdyiptv.workers.dev/live/2275.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5779
+
+Showtime Women 326
+#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="SHOWTIME WOMEN HD" tvg-logo="" group-title="",SHOWTIME WOMEN.us
+https://yupptv.rkdyiptv.workers.dev/live/3125.m3u8
+https://airtel.rkdyiptv.workers.dev/live/2310.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5785
+
+Paramount+
+with Showtime West 327
+#EXTINF:-1 tvg-id="showtimewest.us" tvg-name="SHOWTIME HD WEST" tvg-logo="https://dishpromotions.com/wp-content/uploads/SHO-W-logo.png" group-title="",SHOWTIME WEST
+https://airtel.rkdyiptv.workers.dev/live/176.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/1863.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=476834
+
+Showtime 2 West 328
+#EXTINF:-1 tvg-id="5777" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/5777.png" group-title="",SHOWTIME 2 WEST
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5777
+
+Showtime Showcase West 329
+#EXTINF:-1 tvg-id="5784" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/5784.png" group-title="",SHOWTIME SHOWCASE WEST
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5784
+
+Showtime Showcase 330
+#EXTINF:-1 tvg-id="showtimeshowcase.us" tvg-name="SHOWTIME SHOWCASE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmFuW4OYq1wRdJQYIhNW-Mc1_e0TnTSDCL-g&s" group-title="",SHOWTIME SHOWCASE.us
+https://yupptv.rkdyiptv.workers.dev/live/1861.m3u8
+https://airtel.rkdyiptv.workers.dev/live/179.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5783
+
+Showtime Extreme 331
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="SHOWTIME EXTREME HD" tvg-logo="" group-title="",SHOWTIME EXTREME.us
+https://yupptv.rkdyiptv.workers.dev/live/3119.m3u8
+https://airtel.rkdyiptv.workers.dev/live/2274.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5778
+
+
+
+Starz On Demand1,8 340
+
+
+
+Starz 341
+#EXTINF:-1 tvg-id="starz.us" tvg-name="STARZ HD" tvg-logo="" group-title="",STARZ.us
+https://airtel.rkdyiptv.workers.dev/live/183.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/1867.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5824
+
+
+
+
+Starz Kids & Family 342
+#EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-name="STARZ KIDS & FAMILY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTH9GHiJqmsWvwGqDqUHYxGu5oZsqMVJV_wg&s" group-title="",STARZ Kids And Family.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5823
+https://yupptv.rkdyiptv.workers.dev/live/1871.m3u8
+https://airtel.rkdyiptv.workers.dev/live/187.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=476779
+
+Starz Edge 343
+#EXTINF:-1 tvg-id="starzedge.us" tvg-name="STARZ EDGE HD" tvg-logo="" group-title="",STARZ Edge.us
+https://yupptv.rkdyiptv.workers.dev/live/1868.m3u8
+https://airtel.rkdyiptv.workers.dev/live/184.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5807
+
+Starz in Black 344
+#EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="STARZ IN BLACK HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzf5oqzEN-CKg9GVdH_ovC9mIHr6mjid07Q&s" group-title="",STARZ InBlack.us
+https://yupptv.rkdyiptv.workers.dev/live/3131.m3u8
+https://airtel.rkdyiptv.workers.dev/live/2280.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5822
+
+Starz West 345
+#EXTINF:-1 tvg-id="476835" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/73548.png" group-title="",STARZ WEST
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=476835
+https://yupptv.rkdyiptv.workers.dev/live/3108.m3u8
+https://airtel.rkdyiptv.workers.dev/live/2279.m3u8
+
+Starz Comedy 346
+#EXTINF:-1 tvg-id="starzcomedy.us" tvg-name="STARZ COMEDY HD" tvg-logo="" group-title="",STARZ Comedy.us
+https://yupptv.rkdyiptv.workers.dev/live/1870.m3u8
+https://airtel.rkdyiptv.workers.dev/live/186.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5805
+
+Starz Cinema 347
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="STARZ CINEMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Starz_Cinema_2016.svg/960px-Starz_Cinema_2016.svg.png" group-title="",STARZ Cinema.us
+https://yupptv.rkdyiptv.workers.dev/live/1869.m3u8
+https://airtel.rkdyiptv.workers.dev/live/185.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5803
+
+
+
+
+
+Starz Encore On Demand1,8 350
+•
+•
+•
+Starz Encore 351
+#EXTINF:-1 tvg-id="starzencore.us" tvg-name="STARZ ENCORE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQESFNQpLm26pwGbY9I47c50vkA7Mj7GccVEw&s" group-title="",STARZ ENCORE.us
+https://yupptv.rkdyiptv.workers.dev/live/1866.m3u8
+https://airtel.rkdyiptv.workers.dev/live/182.m3u8
+
+Starz Encore Suspense 352
+#EXTINF:-1 tvg-id="starzencoresuspense.us" tvg-name="STARZ ENORE SUSPENSE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD_wjIBaZaw7BVVdf43su2vXWboyjUvve0bw&s" group-title="",STARZ ENCORE Suspense.us
+https://yupptv.rkdyiptv.workers.dev/live/3137.m3u8
+https://airtel.rkdyiptv.workers.dev/live/2286.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5818
+
+Starz Encore Westerns 353
+#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="STARZ ENCORE WESTERN HD" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/starz-encore-westerns.png" group-title="",STARZ ENCORE Westerns.us
+https://yupptv.rkdyiptv.workers.dev/live/3138.m3u8
+https://airtel.rkdyiptv.workers.dev/live/2287.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=476836
+
+Starz Encore Classic 354
+#EXTINF:-1 tvg-id="starzencoreclassics.us" tvg-name="STARZ ENCORE CLASSIC HD" tvg-logo="" group-title="",STARZ ENCORE Classic.us
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5814
+https://yupptv.rkdyiptv.workers.dev/live/3135.m3u8
+https://airtel.rkdyiptv.workers.dev/live/2284.m3u8
+
+Starz Encore Black 355
+#EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="STARZ ENCORE BLACK HD" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/starz-encore-black.png" group-title="",STARZ ENCORE Black.us
+https://yupptv.rkdyiptv.workers.dev/live/3134.m3u8
+https://airtel.rkdyiptv.workers.dev/live/2283.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5812
+
+Starz Encore Family 356
+#EXTINF:-1 tvg-id="starzencorefamily.us" tvg-name="STARZ ENCORE FAMILY HD" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/starz-encore-family.png" group-title="",STARZ ENCORE Family.us
+https://yupptv.rkdyiptv.workers.dev/live/3136.m3u8
+https://airtel.rkdyiptv.workers.dev/live/2285.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5817
+
+Starz Encore West 357
+#EXTINF:-1 tvg-id="starzencorewest.us" tvg-name="STARZ ENCORE HD WEST" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBZxrq87QjTwJKzwTxQIeyny7UWvDoEdpKzg&s" group-title="",STARZ ENCORE WEST
+https://yupptv.rkdyiptv.workers.dev/live/3132.m3u8
+https://airtel.rkdyiptv.workers.dev/live/2281.m3u8
+
+Starz Encore Action 358
+#EXTINF:-1 tvg-id="starzencoreaction.us" tvg-name="STARZ ENCORE ACTION HD" tvg-logo="" group-title="",STARZ ENCORE Action.us
+https://yupptv.rkdyiptv.workers.dev/live/3133.m3u8
+https://airtel.rkdyiptv.workers.dev/live/2282.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5810
+
+
+
+Starz Encore Espanol 359/1056
+•
+•
+•
+Cinemax On Demand1,8 370
+
+
+
+
+
+
+
+Cinemax 371
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="CINEMAX HD" tvg-logo="" group-title="",Cinemax.us
+https://yupptv.rkdyiptv.workers.dev/live/1369.m3u8
+https://airtel.rkdyiptv.workers.dev/live/169.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5722
+
+Cinemax Hits 372
+Cinemax Hits.us
+
+
+
+
+Cinemáx 375
+#EXTINF:-1 tvg-id="No details available" tvg-name="LAT | CINEMAX EAST HD" tvg-logo="https://static.wikia.nocookie.net/themovies/images/c/c9/Cinemax_%28Yellow%29.svg.png/revision/latest?cb=20180415140157" group-title="",CINEMAX LATINO
+https://yupptv.rkdyiptv.workers.dev/live/7886.m3u8
+https://airtel.rkdyiptv.workers.dev/live/6057.m3u8
+
+Cinemax Classics 376 NOW 5 STARMAX HD
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="5 STARMAX HD" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/09/cinemax_classics-logo_brandlogos.net_nehp2-512x249.png" group-title="", Cinemax Classics.us
+https://yupptv.rkdyiptv.workers.dev/live/3130.m3u8
+https://airtel.rkdyiptv.workers.dev/live/2273.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=476832
+
+Cinemax West 378
+#EXTINF:-1 tvg-id="cinemaxpacific.us" tvg-name="CINEMAX WEST US 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinemax_2016.svg" group-title="",CINEMAX WEST
+https://airtel.rkdyiptv.workers.dev/live/2278.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/3126.m3u8
+
+
+
+Cinemax Action 379
+Cinemax Action.us
+
+
+
+
+TMC On Demand1,8 390
+
+
+
+
+
+TMC 391
+#EXTINF:-1 tvg-id="tmc.us" tvg-name="THE MOVIE CHANNEL" tvg-logo="" group-title="",THE MOVIE CHANNEL
+https://yupptv.rkdyiptv.workers.dev/live/1865.m3u8
+https://airtel.rkdyiptv.workers.dev/live/181.m3u8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5830
+
+
+TMC West1,7 392
+
+
+TMC Xtra 393
+#EXTINF:-1 tvg-id="5831" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/5831.png" group-title="",THE MOVIE CHANNEL XTRA
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5831
+https://airtel.rkdyiptv.workers.dev/live/1876.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/1864.m3u8
+
+
+TMC Xtra West1,7 394
+Flix
+7 397
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="326" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",BEIN SPORT 1
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=326
+
+#EXTINF:-1 tvg-id="327" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",BEIN SPORT 2
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=327
+
+#EXTINF:-1 tvg-id="328" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",BEIN SPORT 3
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=328
+
+#EXTINF:-1 tvg-id="329" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",BEIN SPORT 4
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=329
+
+#EXTINF:-1 tvg-id="330" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",BEIN SPORT 5
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=330
+
+#EXTINF:-1 tvg-id="331" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",BEIN SPORT 6
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=331
+
+#EXTINF:-1 tvg-id="332" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",BEIN SPORT 7
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=332
+
+#EXTINF:-1 tvg-id="2205" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",BEIN SPORT 8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2205
+
+#EXTINF:-1 tvg-id="2208" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",BEIN SPORT 9
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2208
+
+#EXTINF:-1 tvg-id="5391" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SG HUB PREMIER 1
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5391
+
+#EXTINF:-1 tvg-id="5396" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SG HUB PREMIER 2
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5396
+
+#EXTINF:-1 tvg-id="5395" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SG HUB PREMIER 3
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5395
+
+#EXTINF:-1 tvg-id="5392" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SG HUB PREMIER 4
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5392
+
+#EXTINF:-1 tvg-id="5394" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SG HUB PREMIER 5
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5394
+
+#EXTINF:-1 tvg-id="5393" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SG HUB PREMIER 6
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5393
+
+#EXTINF:-1 tvg-id="5397" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SG HUB PREMIER 7
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5397
+
+#EXTINF:-1 tvg-id="5398" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SG HUB PREMIER 8
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5398
+
+#EXTINF:-1 tvg-id="5399" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SG HUB PREMIER 9
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5399
+
+#EXTINF:-1 tvg-id="5400" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SG HUB PREMIER 10 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5400
+
+#EXTINF:-1 tvg-id="5401" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SG HUB PREMIER 11 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5401
+
+#EXTINF:-1 tvg-id="6190" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",FANDUEL SPORTS DETROIT 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=6190
+
+#EXTINF:-1 tvg-id="6197" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",FANDUEL SPORTS FLORIDA 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=6197
+
+#EXTINF:-1 tvg-id="6192" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",FANDUEL SPORTS INDIANA 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=6192
+
+#EXTINF:-1 tvg-id="6201" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",FANDUEL SPORTS KANSAS CITY 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=6201
+
+#EXTINF:-1 tvg-id="6198" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",FANDUEL SPORTS MIDWEST 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=6198
+
+#EXTINF:-1 tvg-id="6196" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",FANDUEL SPORTS NORTH 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=6196
+
+#EXTINF:-1 tvg-id="6199" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",FANDUEL SPORTS OHIO 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=6199
+
+#EXTINF:-1 tvg-id="6193" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",FANDUEL SPORTS OKLAHOMA 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=6193
+
+#EXTINF:-1 tvg-id="6187" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",FANDUEL SPORTS SOCAL 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=6187
+
+#EXTINF:-1 tvg-id="6191" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",FANDUEL SPORTS SOUTH 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=6191
+
+#EXTINF:-1 tvg-id="6194" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",FANDUEL SPORTS SOUTHEAST 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=6194
+
+#EXTINF:-1 tvg-id="6188" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",FANDUEL SPORTS SOUTHWEST 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=6188
+
+#EXTINF:-1 tvg-id="6195" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",FANDUEL SPORTS SUN 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=6195
+
+#EXTINF:-1 tvg-id="6200" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",FANDUEL SPORTS WEST 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=6200
+
+#EXTINF:-1 tvg-id="6189" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",FANDUEL SPORTS WISCONSIN 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=6189
+
+#EXTINF:-1 tvg-id="4334" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",FANDUEL TV 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=4334
+
+#EXTINF:-1 tvg-id="4335" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",FANDUEL RACING 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=4335
+
+#EXTINF:-1 tvg-id="2129" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",WINNIPEG JETS 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2129
+
+#EXTINF:-1 tvg-id="2067" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",ATLANTA HAWKS 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2067
+
+#EXTINF:-1 tvg-id="2068" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",BOSTON CELTICS 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2068
+
+#EXTINF:-1 tvg-id="2069" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",BROOKLYN NETS 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2069
+
+#EXTINF:-1 tvg-id="2070" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",CHARLOTTE HORNETS 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2070
+
+#EXTINF:-1 tvg-id="2071" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",CHICAGO BULLS 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2071
+
+#EXTINF:-1 tvg-id="2072" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",CLEVELAND CAVALIERS 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2072
+
+#EXTINF:-1 tvg-id="2073" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",DALLAS MAVERICKS 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2073
+
+#EXTINF:-1 tvg-id="2074" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",DENVER NUGGETS 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2074
+
+#EXTINF:-1 tvg-id="2075" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",DETROIT PISTONS 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2075
+
+#EXTINF:-1 tvg-id="2076" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",GOLDEN STATE WARRIORS 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2076
+
+#EXTINF:-1 tvg-id="2077" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",HOUSTON ROCKETS 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2077
+
+#EXTINF:-1 tvg-id="2078" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",INDIANA PACERS 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2078
+
+#EXTINF:-1 tvg-id="2079" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",LA LAKERS 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2079
+
+#EXTINF:-1 tvg-id="2080" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",LA CLIPPERS 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2080
+
+#EXTINF:-1 tvg-id="2081" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",MEMPHIS GRIZZLIES 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2081
+
+#EXTINF:-1 tvg-id="2082" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",MIAMI HEAT 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2082
+
+#EXTINF:-1 tvg-id="2083" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",MILWAUKEE BUCKS
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2083
+
+#EXTINF:-1 tvg-id="2084" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",MINNESOTA TIMBERWOLVES
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2084
+
+#EXTINF:-1 tvg-id="2085" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",NEW ORLEANS PELICANS
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2085
+
+#EXTINF:-1 tvg-id="2086" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",NEW YORK KNICKS
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2086
+
+#EXTINF:-1 tvg-id="2087" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",OKLAHOMA CITY THUNDER
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2087
+
+#EXTINF:-1 tvg-id="2088" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",ORLANDO MAGIC
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2088
+
+#EXTINF:-1 tvg-id="2089" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",PHILADELPHIA 79ERS
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2089
+
+#EXTINF:-1 tvg-id="2090" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",NBA: PHOENIX SUNS
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2090
+
+#EXTINF:-1 tvg-id="2091" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",PORTLAND TRAIL BLAZERS
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2091
+
+#EXTINF:-1 tvg-id="2092" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", SACRAMENTO KINGS
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2092
+
+#EXTINF:-1 tvg-id="2093" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SAN ANTONIO SPURS
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2093
+
+#EXTINF:-1 tvg-id="2094" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",TORONTO RAPTORS
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2094
+
+#EXTINF:-1 tvg-id="2095" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",UTAH JAZZ
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2095
+
+#EXTINF:-1 tvg-id="2096" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",WASHINGTON WIZARDS
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2096
+
+#EXTINF:-1 tvg-id="258" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",TSN1
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=258
+
+#EXTINF:-1 tvg-id="259" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",TSN2
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=259
+
+#EXTINF:-1 tvg-id="260" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",TSN3
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=260
+
+#EXTINF:-1 tvg-id="261" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",TSN4
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=261
+
+#EXTINF:-1 tvg-id="262" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",TSN5
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=262
+
+#EXTINF:-1 tvg-id="4824" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",RDS INFO
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=4824
+
+#EXTINF:-1 tvg-id="4825" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",RDS SPORTS
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=4825
+
+#EXTINF:-1 tvg-id="4826" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",RDS2 SPORTS
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=4826
+
+#EXTINF:-1 tvg-id="264" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SPORTSNET ONTARIO
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=264
+
+#EXTINF:-1 tvg-id="263" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SPORTSNET EAST
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=263
+
+#EXTINF:-1 tvg-id="265" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SPORTSNET ONE
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=265
+
+#EXTINF:-1 tvg-id="266" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SPORTSNET 360
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=266
+
+#EXTINF:-1 tvg-id="267" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SPORTSNET WORLD
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=267
+
+#EXTINF:-1 tvg-id="268" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SPORTSNET PACIFIC
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=268
+
+#EXTINF:-1 tvg-id="269" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SPORTSNET WEST
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=269
+
+#EXTINF:-1 tvg-id="4612" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",FIGHT PASS 24X7
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=4612
+
+#EXTINF:-1 tvg-id="275" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",WWE
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=275
+
+#EXTINF:-1 tvg-id="276" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",FIGHT NETWORK
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=276
+
+#EXTINF:-1 tvg-id="4814" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",MARQUEE SPORTS NETWORK
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=4814
+
+#EXTINF:-1 tvg-id="2406" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",OLYMPICS CHANNEL
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2406
+
+#EXTINF:-1 tvg-id="4519" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="SPORTS",TVA SPORTS
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=4519
+
+#EXTINF:-1 tvg-id="4520" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",TVA SPORTS 2
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=4520
+
+#EXTINF:-1 tvg-id="2453" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SKY SPORTS BOX OFFICE
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2453
+
+#EXTINF:-1 tvg-id="1959" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SKY SPORTS MAIN
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=1959
+
+#EXTINF:-1 tvg-id="1960" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SKY SPORTS CRICKET
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=1960
+
+#EXTINF:-1 tvg-id="1961" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SKY SPORTS ACTION
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=1961
+
+#EXTINF:-1 tvg-id="1962" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SKY SPORTS GOLF
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=1962
+
+#EXTINF:-1 tvg-id="1963" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SKY SPORTS PREMIER LEAGUE
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=1963
+
+#EXTINF:-1 tvg-id="1967" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SKY SPORTS +
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=1967
+
+#EXTINF:-1 tvg-id="1968" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SKY SPORTS FOOTBALL
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=1968
+
+#EXTINF:-1 tvg-id="2452" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SKY SPORTS TENNIS
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2452
+
+#EXTINF:-1 tvg-id="1969" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SKY SPORTS MIX
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=1969
+
+#EXTINF:-1 tvg-id="288" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SKY SPORTS F1
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=288
+
+#EXTINF:-1 tvg-id="289" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SKY SPORTS NEWS
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=289
+
+#EXTINF:-1 tvg-id="2449" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",TNT SPORTS BOX OFFICE
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2449
+
+#EXTINF:-1 tvg-id="312" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",TNT SPORTS 1
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=312
+
+#EXTINF:-1 tvg-id="313" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",TNT SPORTS 2
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=313
+
+#EXTINF:-1 tvg-id="314" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="SPORTS",TNT SPORTS 3
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=314
+
+#EXTINF:-1 tvg-id="2451" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",TNT SPORTS 4
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2451
+
+#EXTINF:-1 tvg-id="4515" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="SPORTS",TNT SPORTS ULTIMATE
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=4515
+
+#EXTINF:-1 tvg-id="317" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="SPORTS",RACING CHANNEL
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=317
+
+#EXTINF:-1 tvg-id="318" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="SPORTS",AT THE RACES 
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=318
+
+#EXTINF:-1 tvg-id="2386" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="SPORTS",LIVERPOLL FC TV
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2386
+
+#EXTINF:-1 tvg-id="2608" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",LALIGA UK
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2608
+
+#EXTINF:-1 tvg-id="2609" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="SPORTS",MUTV
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2609
+
+#EXTINF:-1 tvg-id="2217" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",PREMIER SPORTS 1
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2217
+
+#EXTINF:-1 tvg-id="2450" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",PREMIER SPORTS 2
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2450
+
+#EXTINF:-1 tvg-id="7551" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",ACC DIGITAL NETWORK
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7551
+
+#EXTINF:-1 tvg-id="2414" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",NBC SPORTS BAY AREA
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2414
+
+#EXTINF:-1 tvg-id="2415" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="SPORTS",NBC SPORTS BOSTON
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2415
+
+#EXTINF:-1 tvg-id="2416" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="SPORTS",NBC SPORTS CALIFORNIA
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2416
+
+#EXTINF:-1 tvg-id="2417" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="SPORTS",NBC SPORTS CHICAGO
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2417
+
+#EXTINF:-1 tvg-id="2418" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",NBC SPORTS WASHINGTON
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2418
+
+#EXTINF:-1 tvg-id="274" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",NBC SPORTS PHILADELPHIA
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=274
+
+#EXTINF:-1 tvg-id="1990" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SUPERSPORT ACTION
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=1990
+
+#EXTINF:-1 tvg-id="1991" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SUPERSPORT BLITZ
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=1991
+
+#EXTINF:-1 tvg-id="1992" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SUPERSPORT CRICKET
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=1992
+
+#EXTINF:-1 tvg-id="1993" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SUPERSPORT EVENTS
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=1993
+
+#EXTINF:-1 tvg-id="1994" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SUPERSPORT FOOTBALL
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=1994
+
+#EXTINF:-1 tvg-id="1995" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SUPERSPORT FOOTBALL PLUS
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=1995
+
+#EXTINF:-1 tvg-id="1996" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SUPERSPORT GOLF
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=1996
+
+#EXTINF:-1 tvg-id="1997" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SUPERSPORT GRANDSTAND
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=1997
+
+#EXTINF:-1 tvg-id="1998" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SUPERSPORT LALIGA
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=1998
+
+#EXTINF:-1 tvg-id="1999" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SUPERSPORT MAXIMO
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=1999
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SUPERSPORT MOTORSPORT
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2000
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SUPERSPORT PREMIER LEAGUE
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2001
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SUPERSPORT PSL
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2002
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SUPERSPORT RUGBY
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2003
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="SPORTS",SUPERSPORT TENNIS
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2004
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="SPORTS",SUPERSPORT VARIETY 1
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2005
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SUPERSPORT VARIETY 2
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2006
+
+#EXTINF:-1 tvg-id="2007" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SUPERSPORT VARIETY 3
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2007
+
+#EXTINF:-1 tvg-id="2008" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SUPERSPORT VARIETY 4 
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=2008
+
+#EXTINF:-1 tvg-id="3031" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",ELEVEN SPORTS 1
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=3031
+
+#EXTINF:-1 tvg-id="3032" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",ELEVEN SPORTS 2
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=3032
+
+#EXTINF:-1 tvg-id="3033" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",ELEVEN SPORTS 3
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=3033
+
+#EXTINF:-1 tvg-id="3034" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",ELEVEN SPORTS 4
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=3034
+
+#EXTINF:-1 tvg-id="3035" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",POLSAT SPORT PREMIUM 1
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=3035
+
+#EXTINF:-1 tvg-id="3036" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="POLISH",POLSAT SPORT PREMIUM 2
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=3036
+
+#EXTINF:-1 tvg-id="1393" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SPORT TV1
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=1393
+
+#EXTINF:-1 tvg-id="1395" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SPORT TV2
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=1395
+
+#EXTINF:-1 tvg-id="1396" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SPORT TV3
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=1396
+
+#EXTINF:-1 tvg-id="1397" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SPORT TV4
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=1397
+
+#EXTINF:-1 tvg-id="1399" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SPORT TV5
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=1399
+
+#EXTINF:-1 tvg-id="4819" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SPORTS TV6
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=4819
+
+#EXTINF:-1 tvg-id="4820" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SPORTS TV7
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=4820
+
+#EXTINF:-1 tvg-id="3434" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",ELEVEN SPORTS 1 PT
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=3434
+
+#EXTINF:-1 tvg-id="3435" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",ELEVEN SPORTS 2 PT
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=3435
+
+#EXTINF:-1 tvg-id="3436" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",ELEVEN SPORTS 3 PT
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=3436
+
+#EXTINF:-1 tvg-id="3440" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",ELEVEN SPORTS 4 PT
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=3440
+
+#EXTINF:-1 tvg-id="3438" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",ELEVEN SPORTS 5 PT
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=3438
+
+#EXTINF:-1 tvg-id="3439" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",ELEVEN SPORTS 6 PT
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=3439
+
+#EXTINF:-1 tvg-id="1398" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SPORTING TV
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=1398
+
+#EXTINF:-1 tvg-id="5762" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SPORTSMAX 1 HD
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5762
+
+#EXTINF:-1 tvg-id="5763" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SPORTSMAX 2
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=5763
+
+#EXTINF:-1 tvg-id="7400" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", ALAVES
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7400
+
+#EXTINF:-1 tvg-id="7401" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", ATHLETIC BILBAO
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7401
+
+#EXTINF:-1 tvg-id="7402" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", ATLETICO MADRID
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7402
+
+#EXTINF:-1 tvg-id="7419" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",BARCELONA
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7419
+
+#EXTINF:-1 tvg-id="7403" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",CADIZ
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7403
+
+#EXTINF:-1 tvg-id="7405" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="A",CELTA VIGO
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7405
+
+#EXTINF:-1 tvg-id="7408" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",ELCHE
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7408
+
+#EXTINF:-1 tvg-id="7406" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",ESPANYOL
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7406
+
+#EXTINF:-1 tvg-id="7404" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",GETAFE
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7404
+
+#EXTINF:-1 tvg-id="7417" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",GIRONA
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7417
+
+#EXTINF:-1 tvg-id="7420" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",LEVANTE
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7420
+
+#EXTINF:-1 tvg-id="7413" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",MALLORCA
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7413
+
+#EXTINF:-1 tvg-id="7407" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",OSASUNA
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7407
+
+#EXTINF:-1 tvg-id="7409" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", RAYO VALLECANO
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7409
+
+#EXTINF:-1 tvg-id="7415" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="A",REAL BETIS
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7415
+
+#EXTINF:-1 tvg-id="7410" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", REAL MADRID
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7410
+
+#EXTINF:-1 tvg-id="7416" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="SPORTS | LALIGA",REAL OVIEDO
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7416
+
+#EXTINF:-1 tvg-id="7411" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",REAL SOCIEDAD
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7411
+
+#EXTINF:-1 tvg-id="7412" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", SEVILLA 
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7412
+
+#EXTINF:-1 tvg-id="7414" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", VALENCIA
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7414
+
+#EXTINF:-1 tvg-id="7418" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title=": VILLAREAL
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7418
+
+#EXTINF:-1 tvg-id="7426" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",AC MILAN
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7426
+
+#EXTINF:-1 tvg-id="7437" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",ATALANTA 
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7437
+
+#EXTINF:-1 tvg-id="7430" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",BOLOGNA
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7430
+
+#EXTINF:-1 tvg-id="7424" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", CAGLIARI 
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7424
+
+#EXTINF:-1 tvg-id="7439" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",COMO
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7439
+
+#EXTINF:-1 tvg-id="7434" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",CREMONESE
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7434
+
+#EXTINF:-1 tvg-id="7436" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",FIORENTINA
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7436
+
+#EXTINF:-1 tvg-id="7425" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", GENOA
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7425
+
+#EXTINF:-1 tvg-id="7432" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", INTER MILAN
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7432
+
+#EXTINF:-1 tvg-id="7433" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",JUVENTUS 
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7433
+
+#EXTINF:-1 tvg-id="7431" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",LAZIO
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7431
+
+#EXTINF:-1 tvg-id="7422" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",LECCE
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7422
+
+#EXTINF:-1 tvg-id="7427" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",NAPOLI 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7427
+
+#EXTINF:-1 tvg-id="7429" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SPARMA
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7429
+
+#EXTINF:-1 tvg-id="7438" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",PISA
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7438
+
+#EXTINF:-1 tvg-id="7423" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", ROMA
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7423
+
+#EXTINF:-1 tvg-id="7435" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SASSUOLO
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=d=7435
+
+#EXTINF:-1 tvg-id="7428" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",TORINO 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7428
+
+#EXTINF:-1 tvg-id="7440" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", UDINESE
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7440
+
+#EXTINF:-1 tvg-id="7421" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", VERONA 
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7421
+
+#EXTINF:-1 tvg-id="7253" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",AFC BOURNEMOUTH
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7253
+
+#EXTINF:-1 tvg-id="7254" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", ARSENAL
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7254
+
+#EXTINF:-1 tvg-id="7251" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", ASTON VILLA
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7251
+
+#EXTINF:-1 tvg-id="7262" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", BRENTFORD
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7262
+
+#EXTINF:-1 tvg-id="7172" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", BRIGHTON
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7172
+
+#EXTINF:-1 tvg-id="7174" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",BURNLEY
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7174
+
+#EXTINF:-1 tvg-id="7177" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",CHELSEA
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7177
+
+#EXTINF:-1 tvg-id="7182" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",CRYSTAL PALACE
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7182
+
+#EXTINF:-1 tvg-id="7203" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",EVERTON
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7203
+
+#EXTINF:-1 tvg-id="7266" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", FULHAM
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7266
+
+#EXTINF:-1 tvg-id="7178" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", LEEDS
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7178
+
+#EXTINF:-1 tvg-id="7267" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",LIVERPOOL
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7267
+
+#EXTINF:-1 tvg-id="7270" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", MANCHESTER CITY
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7270
+
+#EXTINF:-1 tvg-id="7185" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", MANCHESTER UTD
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7185
+
+#EXTINF:-1 tvg-id="7183" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", NEWCASTLE UTD
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7183
+
+#EXTINF:-1 tvg-id="7227" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",NOTTINGHAM FOREST
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7227
+
+#EXTINF:-1 tvg-id="7210" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", SUNDERLAND
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7210
+
+#EXTINF:-1 tvg-id="7187" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", TOTTENHAM
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7187
+
+#EXTINF:-1 tvg-id="7198" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", WEST HAM
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7198
+
+#EXTINF:-1 tvg-id="7229" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", WOLVERHAMPTON WANDERERS
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7229
+
+#EXTINF:-1 tvg-id="7237" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", BIRMINGHAM CITY
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7237
+
+#EXTINF:-1 tvg-id="7188" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",BLACKBURN ROVERS
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7188
+
+#EXTINF:-1 tvg-id="7205" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", BRISTOL CITY
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7205
+
+#EXTINF:-1 tvg-id="7239" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",CHARLTON ATHLETIC
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7239
+
+#EXTINF:-1 tvg-id="7250" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",COVENTRY CITY
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7250
+
+#EXTINF:-1 tvg-id="7225" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", DERBY COUNTY
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7225
+
+#EXTINF:-1 tvg-id="7236" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", HULL CITY
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7236
+
+#EXTINF:-1 tvg-id="7257" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",IPSWICH TOWN
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7257
+
+#EXTINF:-1 tvg-id="7263" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",EICTER CITY
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7263
+
+#EXTINF:-1 tvg-id="7197" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",MIDDLESBROUGH
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7197
+
+#EXTINF:-1 tvg-id="7221" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",MILLWALL
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7221
+
+#EXTINF:-1 tvg-id="7240" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",NORWICH CITY
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7240
+
+#EXTINF:-1 tvg-id="7173" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",OXFORD UNITED
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7173
+
+#EXTINF:-1 tvg-id="7179" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",PORTSMOUTH
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7179
+
+#EXTINF:-1 tvg-id="7175" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", PRESTON
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7175
+
+#EXTINF:-1 tvg-id="7241" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",QUEENS PARK RANGERS
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7241
+
+#EXTINF:-1 tvg-id="7184" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SHEFFIELD UNITED
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7184
+
+#EXTINF:-1 tvg-id="7176" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SHEFFIELD WEDNESDAY
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7176
+
+#EXTINF:-1 tvg-id="7180" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SOUTHAMPTON
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7180
+
+#EXTINF:-1 tvg-id="7192" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",STOKE CITY
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7192
+
+#EXTINF:-1 tvg-id="7219" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",SWANSEA CITY
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7219
+
+#EXTINF:-1 tvg-id="7275" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="", WATFORD
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7275
+
+#EXTINF:-1 tvg-id="7186" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",WEST BROMWICH ALBION
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=7186
+
+#EXTINF:-1 tvg-id="6797" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",ONTIME SPORTS 1 FHD
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=6797
+
+#EXTINF:-1 tvg-id="6818" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",ONTIME SPORTS 2 FHD
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=6818
+
+#EXTINF:-1 tvg-id="6800" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",ALKASS 1 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=6800
+
+#EXTINF:-1 tvg-id="6799" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",ALKASS 2 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=6799
+
+#EXTINF:-1 tvg-id="6811" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",ALKASS 3 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=6811
+
+#EXTINF:-1 tvg-id="6798" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",ALKASS 4 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=6798
+
+#EXTINF:-1 tvg-id="6813" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",ALKASS 5 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=6813
+
+#EXTINF:-1 tvg-id="6802" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",ALKASS 6 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=6802
+
+#EXTINF:-1 tvg-id="6804" tvg-logo="https://i.ibb.co/39Nz2wgJ/stalker.png" group-title="",ALKASS 7 4K
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=6804
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="5831" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/5831.png" group-title="", Cairo TV TEST
+rtmp://172.245.236.228/live/stream
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://static.wixstatic.com/media/96e4a0_f35fdba4698a45baa1673becebb1cb25~mv2.png/v1/fill/w_440,h_182,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20tss%20good.png" group-title="", TELE CARAIBES
+https://glb.bozztv.com/glb/hdirect/hdirect-telecaraibes/index.m3u8?token=3603d2bd60e2cc5962154d3dc88d7a6a
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://d371i8ihhgym7w.cloudfront.net/34753609.jpg" group-title="", TELE KISKEYA
+https://glb.bozztv.com/glb/hdirect/hdirect-teleginen/index.m3u8?token=3603d2bd60e2cc5962154d3dc88d7a6a
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/T%C3%A9l%C3%A9_M%C3%A9tropole_Logo.jpg/revision/latest?cb=20211026134859" group-title="", TELE METROPOLE
+https://glb.bozztv.com/glb/hdirect/hdirect-telemetrolple2/index.m3u8?token=3603d2bd60e2cc5962154d3dc88d7a6a
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa_FddJs8WfjxNPhJT_7neDHyW0sYpOzYK2g&s" group-title="", TELE UNION
+https://glb.bozztv.com/glb/hdirect/hdirect-radioteleunion/index.m3u8?token=3603d2bd60e2cc5962154d3dc88d7a6a
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://iptv.haitiendirect.com/channels/logo/cinepam.jpg" group-title="", CINEPAM
+https://glb.bozztv.com/glb/hdirect/hdirect-cinepam-2/index.m3u8?token=3603d2bd60e2cc5962154d3dc88d7a6a
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://lh6.googleusercontent.com/proxy/URRrQ2XEAFL7m745Yc0EO_QJ0OWE2sWPHBfKfpZwK52XjCexjw6oIMA3ta7fU7iO37_ngKq3WIuoyLJVmcxqOA" group-title="", KOUL TV
+https://glb.bozztv.com/glb/hdirect/hdirect-koultv/index.m3u8?token=3603d2bd60e2cc5962154d3dc88d7a6a
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://iptv.haitiendirect.com/channels/logo/konpa-station-tv.jpg" group-title="", KONPA STATION TV
+https://glb.bozztv.com/glb/hdirect/hdirect-konpastation/index.m3u8?token=3603d2bd60e2cc5962154d3dc88d7a6a
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://iptv.haitiendirect.com/channels/logo/two-koul-100-music-videos.jpg" group-title="", TWO KOUL TV
+https://glb.bozztv.com/glb/hdirect/hdirect-twokoul/index.m3u8?token=3603d2bd60e2cc5962154d3dc88d7a6a
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE6YR1R7z8KqxshacVoYqSUGv-7yyznfzGpA&s" group-title="", FUSION TV
+https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/chunklist_w912055167.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://image.roku.com/developer_channels/prod/fec6c52162e7ece3ea96c875796fbfc940d63e4e5273fecf43e06d26b1c8bde1.png" group-title="", Fidele TV
+https://59d39900ebfb8.streamlock.net/FIDELETV/FIDELETV/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i1.sndcdn.com/avatars-000037008364-7aspiq-t240x240.jpg" group-title="", Kajou TV
+https://glb.bozztv.com/glb/hdirect/hdirect-kajoutv/index.m3u8?token=3603d2bd60e2cc5962154d3dc88d7a6a
+https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://4veh.org/wp-content/uploads/2023/05/4VEH-LOGO-FR.png" group-title="", Radio Télé 4VEH
+https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbV54YiEd2YjzTyxZ3WFjqOSO9Ll2gxTrzUA&s" group-title="", Radio Télé Hit
+https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKhRYDb6W6-uTMm-sD_vzFsLPaspO0kTuQXQ&s" group-title="", Radio Télé Stanne Charitab
+https://59d39900ebfb8.streamlock.net/radiotelestannecharitab/radiotelestannecharitab/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://play-lh.googleusercontent.com/TaW_5ZTPMU359F7skc0SZHJk0-xnEVNtK4oKkcdOWq-gE3oJuWqcyk_APo0_UkuGgF0" group-title="", TeleMIX 
+https://haititivi.com/haiti/telemix1/index.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://telepam.tv/wp-content/uploads/2022/09/telepammmm.png" group-title="", Tele Pam
+https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://editor.zenomedia.com/resources/zs_station/436269/CardWebsite/image.png" group-title="", Tele Louange
+https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3e50HiORTdklt7K3ajHXQnBeObinL1mQ1hw&s" group-title="", HMI PROMZ NEWS
+https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://iptv.haitiendirect.com/channels/logo/nago-tv.png" group-title="", NAGO TV
+https://glb.bozztv.com/glb/hdirect/hdirect-nagotv/index.m3u8?token=3603d2bd60e2cc5962154d3dc88d7a6a
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOzfNC9b835ezA5seTgnyxKWRIBBGP405hww&s" group-title="", Tele Ginen
+http://teleginen.srfms.com:1935/teleginen/livestream/chunklist_w531595620.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2017/01/Radio-Tele-Puissance.jpg" group-title="", Radio Tele Puissance
+https://video1.getstreamhosting.com:1936/8560/8560/chunklist_w486676635.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxAI0dE8ZDq8J4D5eq3HN6lkPwIMO_SAXnw&sg" group-title="", Radio Tele Boston
+https://glb.bozztv.com/glb/hdirect/hdirect-teleboston/index.m3u8?token=3603d2bd60e2cc5962154d3dc88d7a6a
+https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgoCmou4dsBheJth6CDzYrLVp1P7Re6KyfHw&s" group-title="", BPX TV
+https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://www.coolstreaming.us/img/ch/image2391130104.jpg" group-title="", TMA
+http://hls.tmacaraibes.com/live/index.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://televariete.com/tva30/logo.png" group-title="", TELE PACIFIC
+https://hls-p1st0n8r.livepush.io/live_cdn/nsOk3qoty1d5HDD/emB7xoUdyMbnjH8/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://televariete.com/tva30/logo.png" group-title="", TRIPOTAIY LAKAY
+https://server2.lakayonline.com/TripotayLakay/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://televariete.com/tva30/logo.png" group-title="", Planet Compas
+https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleZoukla.mq@SD",Tele Zoukla
+https://vdo.pro-fhi.net:3228/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="TVFamille.mq@SD",TV Famille
+https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
+
+
